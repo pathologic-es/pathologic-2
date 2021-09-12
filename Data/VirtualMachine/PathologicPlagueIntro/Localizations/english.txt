@@ -1,0 +1,541 @@
+﻿6192355000943851 ¿Por qué has venido?
+6192355000943852 Vais a decidir el destino del Pueblo.
+6192355000943853 Para confirmarte de que disponemos de los medios necesarios para hacer frente a la plaga.
+6192355000943854 La plaga, no la epidemia. 
+6192355000943855 ¿¡Qué más da!?
+6192355000943856 Ya hemos tomado todas las decisiones… sin ti. Te has presentado sin invitación.
+6192355000943857 ¿Qué habéis decidido?
+6192355000943858 ¿Quién te crees que eres para exigirnos explicaciones? Tan solo eres un patán; alguien que aprendió medicina por su cuenta y que practica la barbárica medicina tradicional.\nOh, pero tranquilo… te conozco. Eres la persona sobre la que me equivoqué al depositar mis esperanzas, la persona que me ha decepcionado. ¡Márchate! ¡Inmediatamente!
+6192355000943859 ¡Solo necesito un día más!
+6192355000943860 Sé dónde conseguir los ingredientes para mi suero. ¡Podemos elaborarlo!
+6192355000943861 ¡Oye, tú! ¡Sí, tú! Quita a este hombre de mi vista. Échalo de aquí.
+6192355000943862 ¡Aglaya, escúchame!
+6192355000943863 Por favor, escuchadme…
+6192355000943864 Sé adónde vas. ¿Quieres un consejo?
+6192355000943865 Habla, pero sé rauda.
+6192355000943866 ¿Cómo? ¿Estás viva…?
+6192355000943867 Seré breve.\nEl Pueblo se ha ido al infierno. Pero también el Dogma. Tu familia ya no está. Tu padre permanece sin vengar. Su senda, sin caminar.\nLos siete vástagos que te confiaron su vida están muertos. Eres el único que queda. ¿Tienes, al menos, la intención de salvarte a ti mismo?
+6192355000943868 No.
+6192355000943869 No. No conoces todos los hechos. No todo está perdido, la epidemia aún se puede frenar. Por eso voy a la catedral: allí se tomará la decisión sobre el bombardeo.
+6192355000943870 Sigue mi consejo. ¿Crees que ella te ama? ¿Crees que <i>ella</i> es una amiga y <i>él</i> un enemigo porque trajo los cañones?\nNo hables primero con <i>ella</i>. Habla con <i>él.</i>
+6192355000943871 Tú no sabes nada. Ella es mi aliada.
+6192355000943872 Bayarlaa, Sahba. Tengo que irme.
+6192355000943873 Ya no confían en mí. Ni siquiera me han invitado a la última asamblea.
+6192355000943874 ¿Dónde están los pájaros?
+6192355000943875 Arriba, ¿dónde si no? Si es que te refieres a los de verdad.
+6192355000943876 Pues claro que me refería a los de verdad.
+6192355000943877 Me refería a los celadores.
+6192355000943878 Me puedo imaginar la clase de consejos que les habrías dado, erdem.
+6192355000943879 Resulta que los pájaros no son pájaros en absoluto. ¿Quieres saber qué son? Acércate y te lo diré… sí, eso es, un poco más. Un poco más… ¡son dedos!
+6192355000943880 ¿Te lo han dicho ellos?
+6192355000943881 Sí. Cito: "No somos pájaros. Somos dedos". Por eso la gente los llama Ejecutores.\n¿Estás cansado? ¿Quieres que te eche una mano con el dolor de cabeza?
+6192355000943882 Adelante. Ni que fueras capaz de hacerlo de verdad.
+6192355000943883 ¿A qué viene esa cara de felicidad? ¿A cuántos has revivido? Debería darte vergüenza… esa gente creía en ti.
+6192355000943884 Preferiría que me aliviaras esta desazón. Últimamente se ha vuelto muy acuciante, como si mi corazón se estuviera rindiendo.
+6192355000943885 ¿Es usted el doctor?
+6192355000943886 En efecto, soy el doctor.
+6192355000943887 No estará pensando derribar el Pueblo, ¿verdad, comandante?
+6192355000943888 ¿Qué es lo que quiere?
+6192355000943889 Quiero… influir en su decisión, de alguna manera.
+6192355000943890 Podemos curar esta enfermedad. Sé cómo hacerlo.
+6192355000943891 ¿Qué disparate está diciendo? ¡Indique su nombre y ocupación!
+6192355000943892 Artemy Burakh, señor, cirujano.
+6192355000943893 ¿Tiene alguna prueba?
+6192355000943894 Yo… no he tenido tiempo de recoger ninguna.
+6192355000943895 No es… precisamente científico. Nuestra gente tiene un enfoque distinto.
+6192355000943896 ¿Desde cuándo se supone que debo discutir este asunto con un civil cualquiera?
+6192355000943897 Sí.
+6192355000943898 No soy un mero civil. Soy médico.
+6192355000943899 Burakh. Tres médicos operan en este pueblo. Yo soy uno de ellos.
+6192355000943900 Ya veo. Deme una sola razón para suspender el bombardeo. Le concedo una única oportunidad.
+6192355000943901 Sé cómo elaborar un suero. Necesitaremos tiempo para producirlo a gran escala, pero la fórmula ya se ha desarrollado.
+6192355000943902 Aún queda muchos supervivientes ahí fuera. Es razón más que suficiente.
+6192355000943903 Eres un héroe de guerra. La única persona en todo el ejército que realmente tiene humanidad.
+6192355000943904 No, Burakh. Si me hubiera dicho que dispone de tres tanques llenos de esa panacea y un ejército de médicos de la capital listo para administrarla, <i>eso</i> me habría convencido.\nTal y como están las cosas, no hay vuelta atrás. El riesgo es demasiado grande.
+6192355000943905 No…
+6192355000943906 ¡Solo hemos tenido doce días! ¡No es suficiente tiempo!
+6192355000943907 Circule, doctor, aquí no hay nada que ver. Solo el trabajo de costumbre.
+6192355000943908 ¿Quién es esta gente?
+6192355000943910 
+6192355000943911 
+6192355000943912 
+6192355000943913 
+6192355000943914 
+6192355000943915 
+6192355000943916 Bueno, Burakh, pues menudo desastre de actuación. No estás hecho para el papel. ¡Esta producción está maldita! Ya es nuestro segundo intento… y nuestro segundo fracaso.
+6192355000943917 Venga ya. El primer pase no ha ido tan mal.
+6192355000943918 ¿Vas a volver a intentar representarla?
+6192355000943919 Disculpa, pero eso no te corresponde a ti juzgarlo.
+6192355000943920 Todos lo hicimos lo mejor que pudimos.
+6192355000943921 Ni que fuera culpa nuestra que nos hayas puesto en estas… condiciones tan inhumanas.
+6192355000943922 Tal vez, ¿por qué no? Pero a ti no voy a darte una segunda oportunidad. No haces nada para mejorar.
+6192355000943923 Sí que lo hago.
+6192355000943924 ¡Ahora resulta que yo soy el problema!
+6192355000943925 Se acabó. Puedes retirarte. El pájaro te entregará tu última paga.
+6192355000943926 Como quieras.
+6192355000943927 ¿No te cansas de esas cabezas picudas? Solo traen problemas.
+6192355000943928 Si hay alguien aquí que haya aportado algo bueno, son ellos.
+6192355000943929 Ya…
+6192355000943930 Conque eres obstinado, ¿eh? ¿Insistes en un segundo intento?
+6192355000943931 Puede.
+6192355000943932 Un segundo, no. El primero.
+6192355000943933 De acuerdo, vamos allá entonces. Imaginemos por un momento que el último tren aún no ha salido de la estación. Asegúrate de no perderlo.
+6192355000943934 Lo importante es no perder mi parada.
+6192355000943935 Muy bien. En marcha.
+6192355000943936 ¿Vienes a por tu paga? Bueno, a todo el mundo se le pagará lo que se le debe en la Catedral. Es allí donde se llevará a cabo la elección final.
+6192355000943937 ¿Por quién?
+6192355000943938 Las autoridades.
+6192355000943939 Quién, si no…
+6192355000959751 Licenciado
+6192355000959752 Día 12, el último,
+6192355000971751 
+6192355000971752 
+6192355000971753 Todavía es de noche.
+6192355000971754 Lo solucionaremos todo. La decisión se tomará en la Catedral.
+6192355000971755 Destitución
+6192355000975351 
+6192355000979451 
+6192355000993160 Son saqueadores. Como ya he dicho, no es más que trabajo rutinario. Usted haga su trabajo y nosotros haremos el nuestro.
+6192355000993161 Deberíais dejarlos marchar. Un par más, un par menos… ¿Qué importancia tiene?
+6192355000993162 … El trabajo de un verdugo. Bastardos… ¡Estáis asesinando a gente inocente! No puedo creer que seáis nuestro ejército. Hasta los invasores son más humanitarios. ¡Detened esta locura de inmediato!
+6192355000993163 Usted sabe mejor que nadie que no hay cura para la peste de arena. La gente se vuelve loca por el dolor. No son responsables de sus actos.\nSolo acabamos con su tormento. Además, así protegemos a los que están sanos. Son órdenes legales.
+6192355000993164 ¡Los quemáis vivos!
+6192355000994251 No, quemamos miasma infectado.
+6192355000994252 ¿¡Qué miasma!? ¡Si no sabéis nada de esta enfermadad!
+6192355000994253 Tenemos instrucciones, redactadas por vuestros propios médicos. Cito directamente: "Medio de transmisión: desconocido". Se transmite por el aire, la saliva, la sangre, el contacto… ¡Y solo Dios sabe qué más! ¡Ya hemos perdido a la mitad de nuestros hombres!
+6192355000994254 Lo tenéis bien merecido.
+6192355000994255 ¿Qué órdenes son esas?
+6192355000994256 Venga, doctor. Ahórrese el sermón. Si hiciese bien su trabajo, nosotros no tendríamos que hacer el nuestro. Pero sigue sin haber una cura.\n¿O acaso piensa que nos divierte disparar y quemar a civiles?
+6192355000994257 ¡Esa gente está sana! ¿Por qué los habéis apresado?
+6192355000994258 ¡Vuestras órdenes son ilegales!
+6192355000994259 Muy bien. Haced lo que debáis.
+6192355001023651 El Poliedro
+6192355001039951 
+6192355001039952 La Plaza del Puente
+6192355001039953 El Cabo
+6192355001039954 La Médula
+6192355001039955 Estepa
+6192355001039956 El Atrio
+6192355001039957 La Catedral
+6192355001039958 Lo solucionaremos todo. La decisión se tomará en la Catedral.
+6192355001039959 Teatro
+6192355001039960 Cada noche se celebran extraños espectáculos de mímica.
+6192355001039961 
+6192355001040452 Munición de revólver común.
+6192355001040453 Pólvora negra. Una bala de plomo de punta plana. Es pesada, de más de 17 gramos. Contrariamente a la creencia popular, no siempre llevan su casquillo.
+6192355001040454 Munición de rifle
+6192355001040455 Munición de rifle común.
+6192355001040456 Los niños de la zona llaman a este tipo de balas puntiagudas "picos". Siempre suelen llevar un par de ellas en los bolsillos.
+6192355001040457 Munición de escopeta
+6192355001040458 Munición de escopeta común.
+6192355001040459 Perfecta para colocarla en las vías del tren. De niños, Stakh, Novel, Grifo y yo lo hacíamos todo el tiempo. Por aquella época, los trenes eran más comunes.
+6192355001040460 Tintura: "Yas"
+6192355001040461 Potencia la inmunidad. Revela síntomas de la enfermedad si se entrega a una persona infectada.
+6192355001040462 El cuerpo consta de tres capas: Sangre, Huesos y Nervios. Cualquier afección se puede tratar si uno sabe cuál de las tres capas ha sido contaminada.\n\nEste brebaje me permite indagar en los Huesos.
+6192355001040463 Tintura: "Medrel"
+6192355001040464 Potencia la inmunidad. Revela síntomas de la enfermedad si se entrega a una persona infectada.
+6192355001040465 El cuerpo consta de tres capas: Sangre, Huesos y Nervios. Cualquier afección se puede tratar si uno sabe cuál de las tres capas ha sido contaminada.\n\nEste brebaje me permite indagar en los Nervios.
+6192355001040466 Potencia la inmunidad. Revela síntomas de la enfermedad si se entrega a una persona infectada.
+6192355001040467 Tintura: "Yas" (+)
+6192355001040468 Potencia la inmunidad. Revela síntomas de la enfermedad si se entrega a una persona infectada. Es especialmente potente.
+6192355001040469 Una tintura revela algunos síntomas de la enfermedad, exponiendo así cuál de las tres Nyespa está dañada. No obstante, si al paciente se le administran demasiadas tinturas, el dolor podría acabar matándolo.
+6192355001040471 El cuerpo consta de tres capas: Sangre, Huesos y Nervios. Cualquier afección se puede tratar si uno sabe cuál de las tres capas ha sido contaminada.\n\nEste brebaje me permite indagar en la Sangre.
+6192355001040472 El cuerpo consta de tres capas: Sangre, Huesos y Nervios. Cualquier afección se puede tratar si uno sabe cuál de las tres capas ha sido contaminada.\n\nEste brebaje me permite indagar en los Huesos.
+6192355001040473 Tintura: "Medrel" (+)
+6192355001040474 Potencia la inmunidad. Revela síntomas de la enfermedad si se entrega a una persona infectada. Es especialmente potente.
+6192355001040475 El cuerpo consta de tres capas: Sangre, Huesos y Nervios. Cualquier afección se puede tratar si uno sabe cuál de las tres capas ha sido contaminada.\n\nEste brebaje me permite indagar en los Nervios.
+6192355001040476 Tintura: "Zürkh" (+)
+6192355001040477 Potencia la inmunidad. Revela síntomas de la enfermedad si se entrega a una persona infectada. Es especialmente potente.
+6192355001040478 El cuerpo consta de tres capas: Sangre, Huesos y Nervios. Cualquier afección se puede tratar si uno sabe cuál de las tres capas ha sido contaminada.\n\nEste brebaje me permite indagar en la Sangre.
+6192355001040479 Panacea
+6192355001040480 Un vial ordinario de medicamentos lleno de un líquido grumoso y rojizo que huele a tierra.
+6192355001040481 ¿…Esto es todo?
+6192355001040482 Demasiado floja para usarse como arma o instrumento quirúrjico, pero a los niños les encanta.
+6192355001040483 Navaja de afeitar
+6192355001040484 Hace diez años, los bandidos locales solían denominarse a sí mismos "barberos", y blandían un tipo muy particular de navaja como parte de su identidad. Me pregunto qué habrá sido de esa cultura.
+6192355001040485 Tan
+6192355001040486 Una sabrosa bebida láctea. Calma el hambre y sacia la sed.
+6192355001040487 Una vez el Dogma me contó que el mejor tan se elabora durante una tormenta, o bien maldiciendo muy fuerte sobre la leche tanto como uno pueda. He probado con cada palabrota, pero nunca se me ha dado muy bien el noble arte del improperio.
+6192355001040488 Torniquete
+6192355001040489 Se usa para mejorar la salud. La gente del puebloprefiere los torniquetes de cuero de fabricación local a los torniquetes de goma.
+6192355001040490 En un intento desesperado por mantener alejada a su querida Katerina de la adicción a la morfina, Alexander Saburov intentó ilegalizar los torniquetes. Qué idea tan absurda. Uno no puede simplemente ilegalizar tiras hechas de cuero o goma.
+6192355001040491 Tiza
+6192355001040492 Un trozo de tiza. Sirve para trazar líneas.
+6192355001040493 El mundo es un todo, tomando forma solo donde se divide. Algunas líneas son naturales; otras, hechas por el hombre. La tiza, cuya composición es a base de cadáveres de criaturas marinas, es una gran herramienta para marcar límites.
+6192355001040494 Morfina
+6192355001040495 Alivia el miedo y el dolor, dejándote atontado y somnoliento. Si tomo esto antes de irme a dormir, despertaré más recuperado por la mañana.
+6192355001040496 Una persona solo está viva siempre y cuando sienta dolor. Sin importar lo que haga Katerina Saburova, ella se mantiene con vida.
+6192355001040497 Neomicina
+6192355001040498 La mejor forma de evitar la infección, es estar muerto. Los antibióticos son el primer paso en esa dirección.
+6192355001040499 La mejor forma de evitar la infección, es estar muerto. Los antibióticos, que reducen la infección a costa de la salud general, son el primer paso hacia la tumba.
+6192355001040500 Neomicina (+)
+6192355001040501 La mejor forma de evitar la infección, es estar muerto. Los antibióticos son el primer paso en esa dirección.
+6192355001040502 La mejor forma de evitar la infección, es estar muerto. Los antibióticos, que reducen la infección a costa de la salud general, son el primer paso hacia la tumba.
+6192355001040503 Ferromicina
+6192355001040504 La mejor forma de evitar la infección, es estar muerto. Los antibióticos son el primer paso en esa dirección.
+6192355001040505 La mejor forma de evitar la infección, es estar muerto. Los antibióticos, que reducen la infección a costa de la salud general, son el primer paso hacia la tumba.
+6192355001040506 Ferromicina (+)
+6192355001040507 La mejor forma de evitar la infección, es estar muerto. Los antibióticos son el primer paso en esa dirección.
+6192355001040508 La mejor forma de evitar la infección, es estar muerto. Los antibióticos, que reducen la infección a costa de la salud general, son el primer paso hacia la tumba.
+6192355001040509 Monomicina
+6192355001040510 La mejor forma de evitar la infección, es estar muerto. Los antibióticos son el primer paso en esa dirección.
+6192355001040511 La mejor forma de evitar la infección, es estar muerto. Los antibióticos, que reducen la infección a costa de la salud general, son el primer paso hacia la tumba.
+6192355001040512 Monomicina (+)
+6192355001040513 La mejor forma de evitar la infección, es estar muerto. Los antibióticos son el primer paso en esa dirección.
+6192355001040514 La mejor forma de evitar la infección, es estar muerto. Los antibióticos, que reducen la infección a costa de la salud general, son el primer paso hacia la tumba.
+6192355001040515 Lanceta
+6192355001040519 Botella vacía
+6192355001040520 Se puede rellenar con agua o sangre.
+6192355001040521 En este pueblo nadie bebe agua del río Gorkhon, lo cual es sensato. También es verdad que nadie cava bien, lo cual ya tiene menos sentido.\n\nBeber agua limpia y fresca no se considera un lujo, si bien se considera valiosa. A menudo la gente puede distinguir de qué manantial procede tan solo por su sabor.
+6192355001040522 Cecina
+6192355001040523 No es tan buena como la carne fresca, pero se conserva mejor. Además, puedes desgarrarla con los dientes; no hacen falta ni tenedores ni cuchillos.
+6192355001040524 Carne enlatada. Carne ahumada. Curada. Hervida. Estofada. El arte de preparar carne es muy respetado en el Pueblo.
+6192355001040525 Corazón infectado
+6192355001040526 Ulceroso, y aun así casi vivo.
+6192355001040527 "Cada objeto tiene su latido. ¿No lo oyes?".
+6192355001040528 Venda ensangrentada
+6192355001040529 ¿Quién en su sano juicio se guardaría esta basura?
+6192355001040530 Según los procedimientos sanitarios, todo objeto que porte cualquier rastro de una persona fallecida, debe incinerarse. De acuerdo a una creencia popular, es inútil, ya que la sangre simplemente aparecerá en otro lugar.
+6192355001040531 Ampolla hecha añicos
+6192355001040532 El vidrio está sospechosamente cálido al tacto.
+6192355001040533 Puede que contuviera alguna clase de droga salvavidas, o tal vez veneno. Sea como sea, ahora ya no sirve de nada.
+6192355001040534 Trozo de vela
+6192355001040535 Un trozo de vela nupcial. Huele a tierra.
+6192355001040536 Dicen que con tan solo una mirada a las velas de agreste Nina Kaina, la Patrona Oscura de nuestro pueblo, estas se inclinan ante ella… incluso si no sopla el viento. 
+6192355001040537 Muelle
+6192355001040538 Un muelle de metal oxidado. Muy útil para reparar todo tipo de herramientas.
+6192355001040539 La industrialización otorgó a los trabajadores de la región nuevos derechos y una jornada laboral fija. A cambio, lo único que pidió fue su libre albedrío.
+6192355001040540 Tijeras rotas
+6192355001040541 Las Moiras debían tener prisa.
+6192355001040542 Se dice que Clara la Impostora, una pequeña ratera que afirma ser una santa, puede reparar cualquier objeto afilado con tanta facilidad como cura la plaga de arena, simplemente imponiendo sus manos sobre él.
+6192355001040543 Escarabajo
+6192355001040544 Un hallazgo sorprendente en otoño… aunque inútil.
+6192355001040545 ¿Dónde se meten en invierno?
+6192355001040546 Botón
+6192355001040547 Algo insignificante para un humano, pero un ojo completo para una muñeca.
+6192355001040548 Se dice que Arisca tiene una muñeca, pero nadie la ha visto jamás. Quizá simplemente viva por todo el Pueblo.
+6192355001040549 Aguja
+6192355001040550 Tan penetrante como la mirada de un hombre sabio. Sirve para forzar pequeñas cerraduras, como los cajones de un escritorio.
+6192355001041351 Dicen que cuando Lara Ravel se pinchó el dedo con una aguja no derramó sangre, y desde entonces, nunca más se ha vuelto a quedar dormida.
+6192355001043151 Revólver
+6192355001043152 Un revólver de seis balas de grado militar. Impreciso y de limitado alcance.
+6192355001043153 La guerra civil terminó hace más de dos años. Las hostilidades pasaron de largo nuestro pequeño estercolero, pero los refugiados y los desertores siguen diseminando equipamiento militar hasta en los lugares más recónditos del país.
+6192355001043251 Unas criaturas de lo más curiosas, aunque no se puede decir que sea muy aficionado a su color. Tendremos que pintarlas de negro. ¿Usted qué opina, doctor?
+6192355001043252 Negro estaría bien.
+6192355001043253 Déjalas como están. Ya son bastante desagradables tal y como son.
+6192355001080451 en el que el Arúspice acaba con un punto y coma
+6192355001080452 Mark Inmortal	
+6192355001080453 Impostora
+6192355001080454 Ejecutor
+6192355001080455 Pústula
+6192355001080457 Comandante
+6192355001080458 Oficial
+6192355001082251 Inquisidora
+6192355001458076 
+6192355001458079 
+6192355001458080 
+6192355001458081 
+6192355001458082 
+6192355001458083 
+6192355001458084 
+6192355001458085 
+6192355001458086 
+6192355001458087 
+6192355001458088 
+6192355001458089 
+6192355001458090 
+6192355001458091 
+6192355001458092 
+6192355001458093 
+6192355001458094 
+6192355001458095 
+6192355001458096 
+6192355001458097 
+6192355001458098 
+6192355001458099 
+6192355001458100 
+6192355001458101 
+6192355001458102 
+6192355001458103 
+6192355001458104 
+6192355001458105 
+6192355001458106 
+6192355001458107 
+6192355001458108 
+6192355001458109 
+6192355001458110 
+6192355001458111 
+6192355001458112 
+6192355001458113 
+6192355001458114 
+6192355001458115 
+6192355001458116 
+6192355001458117 
+6192355001458118 
+6192355001458119 
+6192355001458120 
+6192355001458121 
+6192355001458122 
+6192355001458123 
+6192355001458124 
+6192355001458125 
+6192355001458126 
+6192355001458127 
+6192355001458128 
+6192355001458129 
+6192355001458130 
+6192355001458131 
+6192355001458132 
+6192355001458133 
+6192355001458134 
+6192355001458135 
+6192355001458136 
+6192355001458137 
+6192355001458138 
+6192355001458139 
+6192355001458140 
+6192355001458141 
+6192355001458142 
+6192355001458143 
+6192355001458144 
+6192355001458145 
+6192355001458146 
+6192355001458147 
+6192355001458148 
+6192355001458149 
+6192355001458150 
+6192355001458251 
+6192355001458252 
+6192355001458253 
+6192355001458254 
+6192355001458255 
+6192355001458256 
+6192355001458257 
+6192355001458258 
+6192355001458259 
+6192355001458260 
+6192355001458261 
+6192355001458262 
+6192355001458263 
+6192355001458264 
+6192355001458265 
+6192355001458266 
+6192355001458267 
+6192355001458268 
+6192355001458269 
+6192355001458270 
+6192355001458271 
+6192355001458272 
+6192355001458273 
+6192355001458274 
+6192355001458275 
+6192355001458276 
+6192355001458277 
+6192355001458278 
+6192355001460251 Botella de agua
+6192355001460252 Sacia la sed y sirve como base para tinturas. El agua del río Gorkhon no es potable.
+6192355001460253 A diario, se acarrea agua fresca desde los manantiales de la estepa hasta el pueblo; allí, se distribuye gracias a los aguadores. El  agua del Gorkhon lleva mucho tiempo contaminada por la polución de la fábrica. Incluso tocarla resulta peligroso.
+6192355001469051 
+6192355001469052 
+6192355001469053 
+6192355001469054 
+6192355001482551 Nota rasgada
+6192355001482552 Un trozo de papel mugriento. Inspecciónalo para leer la apenas legible escritura.
+6192355001482553 "Schlafer la ha contraído. Anichkov la ha contraído. Jaksen la ha contraído. El teniente la ha contraído. Kurbanov la ha contraído. Vyuzhin la ha contraído.\n\nEl capitán no la ha contraído. Se voló la tapa de los sesos".
+6192355001485351 Un instrumento quirúrjico de una calidad magnífica. También es bueno para asesinar.
+6192355001485352 El instrumento de un cirujano. De un menkhu. De un bandido. De un destripador. Un instrumento para mí.\n\nEsta herramienta se fabricó especialmente para un cirujano, así que es perfecta para realizar autopsias.
+6192355001485751 
+6192355001523851 
+6192355001523852 
+6192355001523853 
+6192355001523866 
+6192355001523867 
+6192355001523868 
+6192355001523869 
+6192355001523870 
+6192355001523871 
+6192355001523872 
+6192355001523873 
+6192355001523874 
+6192355001523875 
+6192355001523876 
+6192355001523877 
+6192355001523878 
+6192355001523879 
+6192355001523880 
+6192355001523881 
+6192355001523882 
+6192355001523883 
+6192355001523884 
+6192355001523885 
+6192355001523886 
+6192355001523887 
+6192355001523888 
+6192355001523889 
+6192355001523890 
+6192355001523891 
+6192355001523892 
+6192355001523893 
+6192355001523894 
+6192355001523895 
+6192355001523896 
+6192355001523897 
+6192355001523898 
+6192355001523899 
+6192355001523900 
+6192355001523901 
+6192355001523902 
+6192355001523903 
+6192355001523904 
+6192355001523905 
+6192355001523906 
+6192355001523907 
+6192355001523908 
+6192355001523909 
+6192355001523910 
+6192355001523911 
+6192355001523912 
+6192355001523913 
+6192355001523914 
+6192355001523915 
+6192355001523916 
+6192355001523917 
+6192355001523918 
+6192355001523919 
+6192355001523920 
+6192355001523921 
+6192355001523922 
+6192355001523923 
+6192355001523924 
+6192355001523925 
+6192355001523926 
+6192355001523927 
+6192355001523928 
+6192355001523929 
+6192355001523930 
+6192355001523931 
+6192355001523932 
+6192355001523933 
+6192355001523934 
+6192355001523935 
+6192355001523936 
+6192355001523937 
+6192355001523938 
+6192355001523939 
+6192355001523940 
+6192355001523941 
+6192355001523942 
+6192355001523943 
+6192355001523944 
+6192355001523945 
+6192355001523946 
+6192355001523947 
+6192355001523948 
+6192355001523949 
+6192355001523950 
+6192355001524051 
+6192355001524052 
+6192355001524053 
+6192355001524054 
+6192355001524055 
+6192355001524056 
+6192355001524057 
+6192355001524058 
+6192355001524059 
+6192355001524060 
+6192355001524061 
+6192355001524651 
+6192355001524652 
+6192355001524653 
+6192355001524657 
+6192355001524658 
+6192355001524659 
+6192355001524660 
+6192355001524661 
+6192355001524662 
+6192355001524663 
+6192355001524664 
+6192355001524665 
+6192355001524666 
+6192355001524667 
+6192355001524668 
+6192355001524669 
+6192355001524670 
+6192355001524671 
+6192355001524672 
+6192355001524673 
+6192355001524674 
+6192355001524675 
+6192355001524676 
+6192355001524677 
+6192355001524678 
+6192355001524679 
+6192355001524680 
+6192355001524681 
+6192355001524682 
+6192355001524683 
+6192355001524687 
+6192355001524688 
+6192355001524689 
+6192355001524690 
+6192355001524691 
+6192355001524692 
+6192355001524693 
+6192355001524694 
+6192355001524695 
+6192355001524696 
+6192355001524697 Los Curtidores
+6192355001524698 El Lomo
+6192355001524699 Las Fauces
+6192355001524700 Los Cuartos Traseros
+6192355001524701 El Cementerio
+6192355001524702 Los Peleteros
+6192355001524703 El Riñón
+6192355001524704 La Costilla
+6192355001524705 El Flanco
+6192355001524706 La Expansión Tosca
+6192355001524707 Los Almacenes
+6192355001524708 El Vientre
+6192355001524709 La Factoría
+6192355001582369 
+6192355001582370 
+6192355001582371 
+6192355001582372 
+6192355001582373 
+6192355001582374 
+6192355001582375 
+6192355001582376 
+6192355001582377 
+6192355001582378 
+6192355001582379 
+6192355001582380 
+6192355001582381 
+6192355001582382 
+6192355001582383 
+6192355001582384 
+6192355001615257 
+6192355001615258 
+6192355001615259 
+6192355001615260 
+6192355001615261 
+6192355001615262 
+6192355001615263 
+6192355001672351 Munición de revólver
+6192355001672352 Tintura: "Zürkh"
+6192355002011361 
+6192355002011362 
+6192355002011363 
+6192355002011364 
+6192355002011365 
+6192355002011366 
+6192355002011367 
+6192355002011368 
+6192355002011369 
+6192355002011370 
+6192355002011371 
+6192355002011372 
+6192355002011373 
+6192355002011374 
+6192355002011375 
+6192355002011376 
+6192355002033651 La Estación

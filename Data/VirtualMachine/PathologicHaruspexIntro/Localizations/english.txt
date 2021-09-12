@@ -1,0 +1,535 @@
+﻿6192355000539051 Ejecutor
+6192355000539053 Como puedes ves, la sangre ya no fluye por sus venas. Hay un coágulo. Eres médico, ¿no es así? ¿Llevas algún medicamento?
+6192355000539054 ¿Medicamento? ¿Para qué?
+6192355000540251 ¿Cómo te has colado en este ataúd?
+6192355000540252 ¿Yo? Eres tú el que estaba dentro del ataúd. ¿Qué hacías ahí dentro?
+6192355000553551 Alguien muy pesado... Oigo pasos muy pesados, en la oscuridad. No te veo. ¿Estás muerto?
+6192355000553552 Tienes fiebre.
+6192355000557553 Compañero de ruta
+6192355000561651 ¿Te refieres a este tren?
+6192355000561652 Un ataúd es el mejor medio de transporte del mundo. Puede llevarte a sitios inimaginables.
+6192355000561653 Sin embargo, tú pareces muy vivo, así que por ahora ese medio de transporte no parece el adecuado para ti. Con que... viajando por la gorra, ¿eh?
+6192355000561654 Igual que tú.
+6192355000561656 Estaba escondiéndome.
+6192355000561657 ¿De quién? ¿De la muerte?
+6192355000561658 Para nada. No me compares contigo.
+6192355000561659 Sí. Y también de la gente. Aún es pronto para mostrar mi rostro. Demasiado pronto.
+6192355000561660 ¿Así que tú también vas al Pueblo, eh?
+6192355000561661 Cierto.
+6192355000561663 No parece un compartimento particularmente grande o cómodo. Deben dolerte bastante los huesos.
+6192355000561664 Si tanto te gusta, vuelve a tu escondite.
+6192355000561669 Nadie vende pasajes para esta travesía.
+6192355000561670 Bueno, ya basta de cháchara, ¿vale? Me has despertado y quiero volver a dormir.
+6192355000562610 Que Madre Boddho reconforte tus pasos, kholboön. No habrás olvidado a los tuyos, ¿verdad?
+6192355000562611 No. No lo he hecho.
+6192355000562612 Intercambiemos los corazones, kholboön. Convirtámonos en parientes.
+6192355000562613 ¿Qué quieres de mí? ¿No decías que estaba corrupto?
+6192355000562614 Yo no soy uno de los vuestros. No me crié en la estepa.
+6192355000562615 Bayarlaa, kholboön.
+6192355000562637 ¿Tienes un corazón benigno?
+6192355000562638 Bueno, está sano.
+6192355000562639 No lo sé. Me temo que puede estar enfermo.
+6192355000562640 ¿Quién es el juez?
+6192355000562641 Escuchamos a la Tierra con nuestros corazones. El corazón tiene un pulso, al igual que la Tierra. Si cantan en armonía, escuchas el idioma de la Tierra y las hierbas. El idioma de la calidez y el frío. Observa, tangher, y escucha. ¿Qué palabras nos rodean? ¿Qué dice la Tierra?
+6192355000562642 Muchas cosas.
+6192355000562643 No puedo descifrar esta lengua.
+6192355000562644 No es más que mi voz interior.
+6192355000562645 Ha pasado mucho tiempo. Te marchaste. Has olvidado muchas cosas. Tu corazón se ha malogrado, Khatangher. Déjanos comprobar si se ha corrompido.
+6192355000562646 Y una mierda. Estoy perfectamente bien con mi corazón.
+6192355000562647 ¿Cómo puedes hacer eso?
+6192355000562648 La lucha lo revelará. ¿Qué corazón es dichoso? ¿Quién oye las palabras que no son oídas? Verás mi corazón. La sangre del Dogma corre por mis venas. Nunca me arrancaron de mi gente. 
+6192355000562649 Echaré un vistazo.
+6192355000562650 No he olvidado nada.
+6192355000563251 Tampoco a mí.
+6192355000563252 No sois gente, sino bestias. No soy uno de vosotros.
+6192355000563253 No. Prefiero quedarme el mío.
+6192355000563254 Un riachuelo de bondad borra cualquier gota de podredumbre. No hay un "tú" ni un "yo". Solo hay gente, Khatanghe. Mezcla tu carne con la nuestra.
+6192355000563255 Déjame en paz.
+6192355000563256 Está bien. Que así sea.
+6192355000563257 Los ferrocarriles son preciosos. Siempre conducen a un destino del que no se puede escapar... excepto cuando cometen un error estúpido, como este descarrilamiento. Morir tan solo para escapar al destino. Estúpido. Aburrido.
+6192355000563258 ¿Qué es ese monstruo?
+6192355000563259 ¿Al frente o detrás?
+6192355000563260 Detrás de mí.
+6192355000563261 Es Bos Turokh. Una criatura originaria de las leyendas esteparias, de la cual se creó el mundo. ¿Qué intentaría conseguir aquí? Estúpido. La vida nunca puede impedir la muerte.
+6192355000563262 ¿Qué hay más adelante, entonces? ¿A qué se deben las hogueras?
+6192355000563263 ¿Quiénes sois?
+6192355000563264 ¿Hay algo monstruoso delante? No veo ningún peligro.
+6192355000563265 Fíjate bien. Delante solo espera la muerte. ¿Te gustaría comprobarlo?
+6192355000563266 ¿Qué hay de ese toro sobre los raíles?
+6192355000563267 ¿Nosotros? Gentiles voluntarios que te aconsejan volver al vagón del tren, pues pronto partirá de nuevo.
+6192355000563268 Ese toro... ¿Qué ha hecho?
+6192355000563269 ¿Qué ha ocurrido aquí?
+6192355000563270 Sí.
+6192355000563271 No.
+6192355000563272 ¿Qué coágulo? ¿Qué son esas escamas negras?
+6192355000563273 ¿Cómo vamos a saberlo? El médico eres tú, no nosotros. Ve a ver. Nosotros solo nos estamos asegurando de que ningún otro ferrocarril descarrila. También arreglaremos el tuyo, una vez que la bestia abandone los raíles.
+6192355000563274 Entonces vamos para largo. Los toros son muy obstinados.
+6192355000563275 ¿La muerte?
+6192355000563276 Entonces continuaré a pie. Me están esperando.
+6192355000563277 Agua... estoy sedienta. Necesito beber agua fresca. Por favor, tráeme un poco de agua...
+6192355000563278 ¿De dónde la saco?
+6192355000563279 ¿Cómo puedo ayudarte?
+6192355000563280 No, soy médico. ¿Qué te ocurre?
+6192355000563281 Está bien. Aguarda un poco.
+6192355000563282 Fuera... en el patio... me cuesta hablar...
+6192355000563283 Entonces no hables.
+6192355000563284 Aguarda un poco.
+6192355000610751 Amuleto
+6192355000610752 Contra la mala suerte. Es inútil para mí.
+6192355000610753 No puedes atraer la buena suerte, pero puedes fabricarla, como con este amuleto tejido a mano. Supongo que podría intercambiarlo por algo.
+6192355000610754 Neomicina (+)
+6192355000610755 Disminuye la infección. Reestablece la capa de huesos del cuerpo humano. No cura al paciente por completo, pero disminuye considerablemente la probabilidad de muerte.
+6192355000610756 La mejor forma de evitar la infección, es estar muerto. Los antibióticos, que reducen la infección a costa de la salud general, son el primer paso hacia la tumba. Este antibiótico hace mejor trabajo matándote que otros.
+6192355000610757 Twyra negra
+6192355000610758 Twyra, la hierba de muchas caras. Sirve para elaborar tinturas.
+6192355000610759 Las hierbas son la voz de la Tierra. Nos las concede dividiéndose a sí misma; y así, una hierba entregada al cuerpo humano, es capaz de decirnos qué le aflige.\n\nCada brizna de twyra es única. Los herboristas las distinguen por sus voces.
+6192355000610760 Las hierbas son la voz de la Tierra. Nos las concede dividiéndose a sí misma; y así, una hierba entregada al cuerpo humano, es capaz de decirnos qué le aflige.\n\nCada brizna de twyra es única. Los herboristas las distinguen por sus voces.
+6192355000610761 Twyra, la hierba de muchas caras. Sirve para elaborar tinturas.
+6192355000610762 Twyra de sangre
+6192355000610763 Analgésico
+6192355000610764 Ayuda a disminuir la dolencia del paciente. Está hecho de tejido cardíaco.
+6192355000610765 Una mezcla de hierbas y órganos humanos llamada "cocción de muerte". Se cree que absorbe la muerte y la fragilidad, revitalizando a quien la toma.
+6192355000610766 Antibiótico: "Medrel"
+6192355000610767 Todo lo que hacen los antibióticos es asfixiar cuanta vida puedan. No son ninguna panacea.
+6192355000610768 El hombre es un microbio para el Pueblo, y una Pueblo para el microbio. Billones de bacterias útiles habitan nuestro cuerpo; estaríamos vacíos y muertos sin ellas. Y apenas se distinguen de los microbios letales.
+6192355000610769 Escarabajo
+6192355000610770 Un hallazgo sorprendente en otoño... aunque inútil.
+6192355000610771 ¿Dónde se meten en invierno?
+6192355000610772 Café
+6192355000610773 Los granos de café te revitalizarán de inmediato, pero son muy dañinos.
+6192355000610774 Ofrecer granos de café en las sepulturas de las Amantes se considera una ofrenda sorda, pues suyo es el elemento de los Sueños.
+6192355000610775 No hay nada comparable a un delicioso huevo. No hay ni rastro de la gallina.
+6192355000610776 La gente come sobre todo huevos sin fertilizar. Esta es la vacua ilusión de una posible vida.
+6192355000610777 Huevo
+6192355000610778 Botella vacía
+6192355000610779 Se puede rellenar con agua o sangre.
+6192355000610780 El agua fluye como el tiempo.
+6192355000610781 Sangre infectada
+6192355000610782 Se puede usar como cualquier otro órgano infectado.
+6192355000610783 Entre las capas del cuerpo, la sangre se menciona con frecuencia; en otras ocasiones, la carne; pero rara vez como dos capas separadas. La sangre <i>es</i> carne. "Tú y yo tenemos la misma sangre". "Eres carne de nuestra carne".
+6192355000610784 Corazón corrupto
+6192355000610785 Un corazón humano. Palpitante, pero pernicioso.
+6192355000610786 Según el folclore de la estepa, en el hígado se encuentra el centro de la mente y la sabiduría, mientras que el centro de los sentimientos y las emociones se encuentra en las entrañas. Consideran al corazón como un órgano no tan vital y más bien mecánico que simplemente bombea la vida, alcanzando así, extrañamente, un consenso con la medicina científica.
+6192355000610787 Corazón benigno
+6192355000610788 Un corazón humano palpitante.
+6192355000610789 Según el folclore de la estepa, en el hígado se encuentra el centro de la mente y la sabiduría, mientras que el centro de los sentimientos y las emociones se encuentra en las entrañas. Consideran al corazón como un órgano no tan vital y más bien mecánico que simplemente bombea la vida, alcanzando así, extrañamente, un consenso con la medicina científica.
+6192355000610790 Potenciadores de inmunidad
+6192355000610791 Un surtido de píldoras de origen desconocido. Potencian la inmunidad. Tienen un olor sospechoso.
+6192355000610792 Científicamente hablando, no existe un consenso sobre si la inmunidad puede potenciarse en absoluto. Sin embargo, estas píldoras parecen funcionar. Según la caja, fueron elaboradas hace más de cincuenta años.
+6192355000610793 Mascarilla
+6192355000610794 Cubre la cara.
+6192355000610795 Esta mascarilla se asemeja a la que lleva el personal sanitario, solo que en lugar de ser de gasa esterilizada está hecha con algún tipo de tela mugrienta, y en lugar de ajustarse firmemente al rostro, queda bastante suelta. La verdad sea dicha: no es más que un trozo de trapo con un par de tiras colgando.
+6192355000610796 Cerilla
+6192355000610797 ¡Saca la más corta!
+6192355000610798 Uno debe recordar lo que es más querido para él <i>antes</i> de que la cerilla se extinga, o de lo contrario, todo el asunto no sirve para nada.
+6192355000610799 Cecina
+6192355000610800 No es tan buena como la carne fresca, pero se conserva mejor. Además, puedes desgarrarla con los dientes; no hacen falta ni tenedores ni cuchillos.
+6192355000610801 Carne enlatada. Carne seca. Carne ahumada. Carne cocida. Ternera, jamón... Sin duda en esta villa se honra el buen arte de cocinar carne.
+6192355000610802 Leche
+6192355000610803 Cálida, cremosa. Sacia el hambre y la sed. Te recuerda a tu niñez.
+6192355000610804 A menudo usada como ofrenda para los difuntos, la leche sirve como recordatorio de que todo lo que nace, debe morir. Se dice que los difuntos priman el beber leche por encima del agua, porque el agua les recuerda al flujo del tiempo.
+6192355000610805 Dinero
+6192355000610806 Brilla en la penumbra.
+6192355000610807 Si bien todo el mundo sabe qué pinta tiene el dinero, en la villa se pueden encontrar monedas de todos los países y eras. Sorprendentemente, todas son aceptadas por comercios y mercaderes.
+6192355000610808 Nombre desechado
+6192355000610809 Cuando alguien se harta de su nombre, lo desecha.
+6192355000610810 La gente de esta villa es como una bandada de pájaros, y los pájaros no necesitan nombres. El individualismo está sobrevalorado.
+6192355000610811 Aguja
+6192355000610812 "Su muerte se oculta en el interior de una aguja, que a su vez se encuentra en un huevo, que a su vez se encuentra en un pato...".
+6192355000610813 Dicen que cuando Lara Ravel se pinchó el dedo con una aguja no derramó sangre, y desde entonces, nunca más se ha vuelto a quedar dormida.
+6192355000610814 Mantiene la oscuridad a raya.
+6192355000610815 Antorcha
+6192355000610816 Mantiene la oscuridad a raya.
+6192355000610817 Navaja de afeitar
+6192355000610818 Demasiado floja para usarse como arma o instrumento quirúrjico, pero a los niños les encanta.
+6192355000610819 Hace diez años, los bandidos locales solían denominarse a sí mismos "barberos", y blandían un tipo muy particular de navaja como parte de su identidad. Me pregunto qué habrá sido de esa cultura.
+6192355000610820 Bisturí
+6192355000610821 Puede pasar por un instrumento esencial para un cirujano, o segar la vida de alguien.
+6192355000610822 El instrumento de un cirujano. De un menkhu. De un bandido. De un destripador. Un instrumento para mí.
+6192355000610823 Jabón
+6192355000610824 Una pastilla de jabón común y corriente.
+6192355000610825 Nada extravagante. Una sencilla pastilla de jabón, esencial para mantener la higiene personal.
+6192355000610826 Huso
+6192355000610827 Casi no le queda hilo.
+6192355000610828 Victoria Olgimskaya solía tejer. Aunque solo por diversión, claro. ¿Qué vas a tejer cuando tu marido se dedica únicamente a la matanza de toros en lugar del pastoreo de ovejas?
+6192355000610829 Tintura: "Yas"
+6192355000610830 Potencia la inmunidad. Revela síntomas de la enfermedad si se entrega a una persona infectada.
+6192355000610831 El cuerpo consta de tres capas: carne, huesos y nervios. Cualquier afección se puede tratar si uno sabe cuál de las tres capas ha sido contaminada.\n\nEste brebaje me permite indagar en los huesos.
+6192355000610832 Potencia la inmunidad. Revela síntomas de la enfermedad si se entrega a una persona infectada.
+6192355000610833 El cuerpo consta de tres capas: carne, huesos y nervios. Cualquier afección se puede tratar si uno sabe cuál de las tres capas ha sido contaminada.\n\nEste brebaje me permite indagar en los nervios.
+6192355000610834 Tintura: "Medrel"
+6192355000610835 Potencia la inmunidad. Revela síntomas de la enfermedad si se entrega a una persona infectada. Es especialmente potente.
+6192355000610836 El cuerpo consta de tres capas: carne, huesos y nervios. Cualquier afección se puede tratar si uno sabe cuál de las tres capas ha sido contaminada.\n\nEste brebaje me permite indagar en la carne.
+6192355000610837 Tintura: "Zürkh" (+)
+6192355000610838 "Uña"
+6192355000610839 Hay que pagar al barquero antes de que me deje subir a la embarcación. Esta moneda extraña servirá.
+6192355000610840 Los críos juegan a "Ratones y Guardianes" con estas. Las reglas del juego son desconocidas, pero cuenta el rumor que cambian a diario.
+6192355000610841 Manto repelente
+6192355000610842 No es bonito, pero cumple con su cometido: repeler la infección.
+6192355000610843 De todas las cosas sobre las que se pueden discutir, "lona contra cuero" solía ser uno de los debates más habituales cuando era niño. Los artículos de cuero son más resistentes, pero más difíciles de remendar.\n\nPadre solía tener una buena reserva de ambos materiales.
+6192355000610844 Nueces
+6192355000610845 Comestibles, pero sirven de poco.
+6192355000610846 El juego dice así: encuentra una nuez que haya viajado mucho, adivina su nombre, agítala y escucha las historias del alma atrapada en su interior.\n\nEs originario de El Poliedro. De niños no jugábamos a esto.
+6192355000610847 Botella de agua
+6192355000610848 Sacia la sed, pero no salvará a la chica enferma.
+6192355000610849 A diario, se acarrea agua fresca desde los manantiales de la estepa hasta la villa, y es distribuída a los hogares gracias a los aguadores. El agua del Gorkhon ha demostrado ser limpia, pero los lugareños se niegan a beberla.
+6192355000617951 Superviviente
+6192355000617952 Congénere
+6192355000969051 Compañero de ruta
+6192355000969068 ¿Quieres jugar?
+6192355000969069 Me apunto.
+6192355000969070 No, no me interesa.
+6192355000969071 ¿A los dados?
+6192355000969072 ¿Qué nos jugamos?
+6192355000969073 ¿Con un extraño? No, gracias. Bien podría estar apostando contra el diablo.
+6192355000969074 ¿Quieres compartir tus secretos?
+6192355000969075 Tú primero.
+6192355000969076 ¿Por qué?
+6192355000969077 Me preocupa no ser bien recibido en el Pueblo. ¿Y si me rehúyen como a un chucho callejero y me dan con la puerta en las narices? ¿Y si mi peaje no resulta suficiente? Podría no lograr mi meta. Pero, tal vez solo sea producto del nerviosismo. Sí, seguro que solo se debe a eso. Puedo hacerlo.
+6192355000969078 ¿Eres un agente de seguros?
+6192355000969079 No tienes pinta de recaudador de impuestos. Esos viajan en primera clase.
+6192355000969080 ¿Reclutador?
+6192355000969081 ¿Eres un predicador?
+6192355000969082 Puedes compartir tus preocupaciones, y las llevaré conmigo.
+6192355000969083 ¿Al ataúd? Trato hecho.
+6192355000969084 No. No me gusta el cáriz que está tomando esto.
+6192355000969085 La verdad es que no... Ahora es tu turno. Sé sincero y tu destino cambiará. Así funciona esto.
+6192355000969086 Estoy preocupado por mi padre. Me ha convocado mediante una carta. Una preocupante. Ha ocurrido algo malo.
+6192355000969087 Soy cirujano. Podría convertirme en un buen médico, pero es como si no me encontrara a mí mismo. Me temo que pasaré el resto de mi vida en este estado.
+6192355000969088 No, gracias, creo que voy a pasar. No me pareces digno de confianza.
+6192355000969089 ¿Quién va primero?
+6192355000969090 Tú.
+6192355000969091 No tengo preocupaciones.
+6192355000969092 Tu destino.
+6192355000969093 Eres un tipo gracioso.
+6192355000969094 No creo en el destino.
+6192355000969095 Una persona no puede dejar atrás su destino.
+6192355000969129 Compañero de ruta
+6192355000969651 Compañero de ruta
+6192355000969652 Compañero de ruta
+6192355000969851 Ey, ¿una pesadilla?
+6192355000969852 ¿Por qué me has despertado?
+6192355000969853 Sí, un mal sueño. Espero que no se haga realidad.
+6192355000969854 ¿Lo he hecho? Despierto, dormido, qué más da... Eres un hombre inquieto. Me pregunto qué habrá en tu interior.
+6192355000969855 ¿Por qué?
+6192355000969856 Lo mismo que en todos los demás: sangre, entrañas y un alma.
+6192355000969857 Ya te lo he dicho. Estoy preocupado por padre.
+6192355000969858 Yo soy así. Me gusta meterme en el pellejo de los demás; mirar bajo la superficie.
+6192355000969859 Yo soy igual.
+6192355000969860 La curiosidad mató al gato.
+6192355000969861 Entonces... ¿Quieres ver a tu padre?
+6192355000969862 Así es.
+6192355000969863 Yo también.
+6192355000969864 Me alegro por ti. Ahora déjame en paz.
+6192355000969865 ¿Por qué nos hemos detenido? ¿Hemos llegado ya...?
+6192355000969866 No me parece que se te de muy bien.
+6192355000969867 ¿Vas a dejar de darme por saco? ¿Es que no ves que intento dormir?
+6192355000969868 Sí.
+6192355000969951 Compañero de ruta
+6192355000970014 Ya casi hemos llegado.
+6192355000970015 ¿Te apetece jugar a los dados?
+6192355000970016 ¿Estás aliviado?
+6192355000970017 Creo que ya hemos jugado bastante. No queda tiempo para más juegos. Tienes trabajo que hacer.
+6192355000970018 ¿Hemos llegado ya?
+6192355000970019 Tienes razón.
+6192355000970020 Oh, sí. No veo el momento de llegar. No veo el momento.
+6192355000970021 ¿Hemos llegado ya?
+6192355000970022 Parece como si estuviéramos yendo en círculos.
+6192355000970023 Bueno, ha sido agradable pasar el tiempo contigo. Buena suerte con tu padre. Seguro que está deseando verte.
+6192355000970024 Buena suerte a ti también.
+6192355000970025 Eso espero. Ha sido un viaje muy largo...
+6192355000970026 No te preocupes, llegaremos. Vamos sobre los raíles, en un ferrocarril; como el destino, inexorable, siempre tiene una meta final. Nuestra siguiente parada será la última. La auténtica parada.
+6192355000970027 Bien.
+6192355000970028 Estos raíles parecen infinitos... La próxima vez iré caminando.
+6192355000988851 Compañero de ruta
+6192355000988852 Compañero de ruta
+6192355001035051 DE CAMINO A CASA,
+6192355001037051 Compañero de ruta
+6192355001037052 ¿Sediento, compañero?
+6192355001037053 Yo no. Otra persona.
+6192355001037451 Cada uno tiene dos ojos y dos orejas. La mayoría tiene una nariz y una boca.\nAdivina adivinanza: si cambiáramos los ojos por las orejas, ¿qué sería lo correcto? Si cambiáramos las narices por las bocas, ¿qué se arreglaría?
+6192355001037452 ¿...Lo has matado tú?
+6192355001045551 Sí.
+6192355001045552 Hay agua en un barril de madera, por donde has venido. Has dejado tu objetivo atrás. No es la primera vez, y ciertamente no será la última.
+6192355001045553 No es justo. Desde aquí tienes mejor visibilidad.
+6192355001045554 He visto la luz. Creía que me invitaba a venir.
+6192355001045555 Como una polilla.
+6192355001045556 Ay.
+6192355001045557 El tren estaba en mi camino.
+6192355001045558 Responde a la pregunta, khayaala. Eres un hombre de la estepa. Tendrías que saber la respuesta.
+6192355001045559 No lo soy.
+6192355001045560 ¡Dios me libre! Mal fario...
+6192355001045561 Entonces sigue tu camino, khayaala. La gente no asesina a otra gente.
+6192355001045562 ¿Acaso siquiera eres humano?
+6192355001045563 Entonces... ¿Este hombre está vivo?
+6192355001045564 Manada
+6192355001051851 Crepúsculo
+6192355001051852 
+6192355001051853 
+6192355001051855 Crepúsculo.
+6192355001051856 Vuelvo a casa. Lo único que necesito es evitar más distracciones.
+6192355001051857 
+6192355001051858 
+6192355001051860 La oscuridad espera más adelante. Sigo los raíles, adentrándome en la nube sombría.
+6192355001051861 
+6192355001051862 
+6192355001051863 Algo va mal. Este no es mi hogar. ¿Quién hay en la habitación de atrás?
+6192355001051864 
+6192355001051865 
+6192355001051866 El agua alberga vida. Hay agua en un barril, afuera. Coge una botella vacía de la alacena. Todo se desmorona.
+6192355001051867 
+6192355001051868 
+6192355001051869 Fui convocado de nuevo a mi ciudad natal mediante una angustiosa carta de mi padre. ¿Pero quién está en la habitación de atrás?
+6192355001051870 Por primera vez en mucho tiempo, estoy en casa.
+6192355001068751 donde todo comienza...
+6192355001082252 Tintura: "Zürkh"
+6192355001082253 Potencia la inmunidad. Revela síntomas de la enfermedad si se entrega a una persona infectada.
+6192355001082254 Bisturí oxidado
+6192355001082255 Puede pasar por un instrumento esencial para un cirujano, o puede segar la vida de alguien. Es una pena que esté en tan mal estado.
+6192355001082256 El instrumento de un cirujano. De un menkhu. De un bandido. De un destripador. Un instrumento para mí.\n\nEsta herramienta se fabricó especialmente para un cirujano, así que es perfecta para realizar autopsias.
+6192355001387951 
+6192355001387959 
+6192355001387960 
+6192355001387961 
+6192355001387962 
+6192355001432159 
+6192355001432165 
+6192355001432166 
+6192355001432167 
+6192355001432168 
+6192355001432169 
+6192355001432170 
+6192355001432171 
+6192355001432172 
+6192355001432173 
+6192355001432174 
+6192355001432175 
+6192355001432176 
+6192355001432177 
+6192355001432178 
+6192355001432179 
+6192355001432180 
+6192355001465261 
+6192355001465262 
+6192355001465263 
+6192355001465264 
+6192355001465265 
+6192355001465266 
+6192355001465267 
+6192355001465268 
+6192355001465269 
+6192355001465270 
+6192355001465271 
+6192355001465272 
+6192355001465273 
+6192355001465274 
+6192355001465275 
+6192355001465276 
+6192355001465277 
+6192355001465278 
+6192355001465279 
+6192355001465280 
+6192355001465281 
+6192355001465282 
+6192355001465283 
+6192355001465284 
+6192355001465285 
+6192355001465286 
+6192355001465287 
+6192355001465288 
+6192355001465289 
+6192355001465290 
+6192355001465291 
+6192355001465292 
+6192355001465293 
+6192355001465294 
+6192355001465295 
+6192355001465296 
+6192355001465297 
+6192355001465298 
+6192355001465299 
+6192355001465300 
+6192355001465301 
+6192355001465302 
+6192355001465303 
+6192355001465304 
+6192355001465305 
+6192355001465306 
+6192355001465307 
+6192355001465308 
+6192355001465309 
+6192355001465310 
+6192355001465311 
+6192355001465312 
+6192355001465313 
+6192355001465314 
+6192355001465315 
+6192355001465316 
+6192355001465317 
+6192355001465318 
+6192355001465319 
+6192355001465320 
+6192355001465321 
+6192355001465322 
+6192355001465323 
+6192355001465324 
+6192355001465325 
+6192355001465326 
+6192355001465327 
+6192355001465328 
+6192355001465329 
+6192355001465330 
+6192355001465331 
+6192355001465332 
+6192355001465333 
+6192355001465334 
+6192355001465335 
+6192355001465336 
+6192355001465337 
+6192355001465338 
+6192355001465339 
+6192355001465340 
+6192355001465341 
+6192355001465342 
+6192355001465343 
+6192355001465344 
+6192355001470954 
+6192355001470955 
+6192355001470956 
+6192355001470957 
+6192355001482651 El cuerpo consta de tres capas: Sangre, Huesos y Nervios. Cualquier afección se puede tratar si uno sabe cuál de las tres capas ha sido contaminada.\n\nEste brebaje me permite tocar la Sangre.
+6192355001615364 
+6192355001615365 
+6192355001615366 
+6192355001615435 
+6192355001615436 
+6192355001615437 
+6192355001615438 
+6192355001615439 
+6192355001615440 
+6192355001615441 
+6192355001615442 
+6192355001615443 
+6192355001615444 
+6192355001615445 
+6192355001615446 
+6192355001615447 
+6192355001615448 
+6192355001615449 
+6192355001615450 
+6192355001615651 
+6192355001615652 
+6192355001615653 
+6192355001615654 
+6192355001615655 
+6192355001615656 
+6192355001615657 
+6192355001615658 
+6192355001615659 
+6192355001615660 
+6192355001615661 
+6192355001615662 
+6192355001615663 
+6192355001615664 
+6192355001615665 
+6192355001615666 
+6192355001615667 
+6192355001615668 
+6192355001615669 
+6192355001615670 
+6192355001615671 
+6192355001615672 
+6192355001615673 
+6192355001615674 
+6192355001615675 
+6192355001615676 
+6192355001615677 
+6192355001615678 
+6192355001615679 
+6192355001615680 
+6192355001615681 
+6192355001615682 
+6192355001615683 
+6192355001615684 
+6192355001615685 
+6192355001615686 
+6192355001615687 
+6192355001615688 
+6192355001615689 
+6192355001615690 
+6192355001615691 
+6192355001615692 
+6192355001615693 
+6192355001615694 
+6192355001615695 
+6192355001615696 
+6192355001615697 
+6192355001615698 
+6192355001615699 
+6192355001615700 
+6192355001615701 
+6192355001615702 
+6192355001615703 
+6192355001615704 
+6192355001615705 
+6192355001615706 
+6192355001615707 
+6192355001615708 
+6192355001615709 
+6192355001615710 
+6192355001615711 
+6192355001615712 
+6192355001615713 
+6192355001615714 
+6192355001615715 
+6192355001615716 
+6192355001615717 
+6192355001615718 
+6192355001615719 
+6192355001615720 
+6192355001615721 
+6192355001615722 
+6192355001615723 
+6192355001615724 
+6192355001615725 
+6192355001615726 
+6192355001615727 
+6192355001615728 
+6192355001615729 
+6192355001615730 
+6192355001615731 
+6192355001615732 
+6192355001615733 
+6192355001615734 
+6192355001615735 
+6192355001615736 
+6192355001615737 
+6192355001615738 
+6192355001615739 
+6192355001615740 
+6192355001615741 
+6192355001615742 
+6192355001615743 
+6192355001615744 
+6192355001615745 
+6192355001615746 
+6192355001615747 
+6192355001615748 
+6192355001615749 
+6192355001615750 
+6192355002022501 
+6192355002022502 
+6192355002022503 
+6192355002022504 
+6192355002022505 
+6192355002022506 
+6192355002022507 
+6192355002022508 
+6192355002022509 
+6192355002022510 
+6192355002022511 
+6192355002022512 
+6192355002022513 
+6192355002022514 
+6192355002022515 
+6192355002022516 
