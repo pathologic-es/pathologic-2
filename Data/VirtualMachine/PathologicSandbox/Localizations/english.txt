@@ -192,7 +192,7 @@
 6192354999869488 ¿Qué es el destino, emshen? El sabio afirma: "Un destino es como una buena esposa; nadie puede obligarte a tomar una, pero tenerla es una bendición, siempre que el amor sea sincero".\nPero eres un hombre libre. Tomas tus propias decisiones. Tu padre valoraba la libertad.
 6192354999869489 La libertad tiene un precio muy elevado.
 6192354999869490 No quiero seguir su estela. Encontraré mi propio camino.
-6192354999869491 "Khetey" significa "hermana-anciana". ¿Es lo que pretendías llamarme? Silvestrerlaa, te lo agradezco. ¿Aún recordarás algunas costumbres de tu gente?
+6192354999869491 "Khetey" significa "hermana-anciana". ¿Es lo que pretendías llamarme? Bayarlaa, te lo agradezco. ¿Aún recordarás algunas costumbres de tu gente?
 6192354999869492 Sí.
 6192354999869493 Recuerdo… muy poco.
 6192354999869494 Compartiremos tu carga, emshen. Tu padre me ayudó; yo le ayudé. También te ayudaré. Veo mucho de él en ti.
@@ -271,7 +271,7 @@
 6192354999869598 Veo algo más en la lista… un octavo sujeto. Alguna clase de símbolo. ¿También tiene que ver con los niños?
 6192354999869600 Es un símbolo para marcar toros, pero normalmente las marcas del Dogma tienen un significado concreto.\nSé khara, este es "udurgh". Significa algo así como… "cuerpo grande" o "cuerpo especial". "Un cuerpo que contiene mucho". Pero no estoy segura. Bien podría ser tan solo un símbolo.
 6192354999869601 ¿Sabes quién podría interpretármelo?
-6192354999869602 Silvestrerlaa, Sahba. Ahora he alcanzado mi legado.
+6192354999869602 Bayarlaa, Sahba. Ahora he alcanzado mi legado.
 6192354999869603 No soy tu padre, kholboön. No puedo educarte. Tendrás que instruirte por tu cuenta. Habla con la gente y, sobre todo, con aquellos que conocían bien a tu progenitor.\nAsí es como llegarás a comprender tu legado.
 6192354999869604 ¿Qué quieres decir?
 6192354999869605 ¿Estás, de nuevo, insinuando que he de seguir los pasos de mi padre? Porque no lo haré. Forjaré mi propio destino.
@@ -303,7 +303,7 @@
 6192354999869631 Entonces, ¿qué más?
 6192354999869632 Sí. Y también porque era un hombre justo y diligente.
 6192354999869633 De ahí que diga que solo alcanzarás y comprenderás su legado si sigues sus pasos. Haz lo que él hacía. Todos los Burakhs sois iguales… hombres de acción.\nTe he contado todo lo que sé, emshen. Y ahora, sigue tu camino.
-6192354999869634 Adiós, Sahba. Y gracias… Silvestrerlaa. Que tu ganado prospere.
+6192354999869634 Adiós, Sahba. Y gracias… Bayarlaa. Que tu ganado prospere.
 6192354999869635 La cabeza me da vueltas de tanta información… Creo que ya basta por hoy.
 6192354999869636 Escúchame bien, emshen, pues lo que te voy a decir es vital. Los primeros días venideros serán los más difíciles.\nTe encontrarás rodeado de infinidad de Líneas: algunas deberás quebrarlas; otras, seguirlas; otras más, dejarlas tranquilas. Cortarte a ti mismo. Solo así hallarás el final.
 6192354999869637 Y siento que el fin está próximo…
@@ -479,28 +479,28 @@
 6192354999869867 ¿Como qué? ¿Un recuerdo? … Menudo estás hecho. De casta le viene al galgo, supongo.
 6192354999869868 Eso depende de lo que encuentre. Bien podría quedármelo para mí.
 6192354999869869 "Permítenos descansar en las montañas, oh, permítenos descansar junto al río…". Esa es la tonada que canta tu gente cuando las cosas se ponen feas, ¿no?\n… ¿Cómo está Silvestre? Supongo que estiró la pata.
-6192354999869870 … ¿Entonces no significaba nada para ti? Fantástico.
+6192354999869870 ¿Entonces él no significaba nada para ti? Fantástico.
 6192354999869871 No, pude curarlo. Silvestre está vivito y coleando.
-6192354999869872 ¡Vaya, Osezno! No perdiste el tiempo en la escuela, ¿que no? Y al cuerno con Stakh, que se enfurruñe. Solo conseguirá hacerlo más difícil.
-6192354999869873 ¿Entonces cuál es el plan?
+6192354999869872 ¡Vaya, Osezno! Veo que no perdiste el tiempo con tus estudios, ¿eh? Bueno, al cuerno con Stakh, que se enfurruñe. Solo conseguirá ponérselo más dificil a sí mismo.
+6192354999869873 ¿Y cuál es el plan ahora?
 6192354999869874 ¿Eh? ¿Es que no he dicho ya "por favor" y "gracias" o algo así?
-6192354999869875 Tu hombre, Silvestre. Es chusma. Lo rajaron por prenderle fuego a una mujer.
+6192354999869875 Tu hombre, Silvestre, es chusma. Lo rajaron por prenderle fuego a una mujer.
 6192354999869876 … Oh. Te lo digo en serio, la gente ha perdido la chaveta… y Silvestre nunca ha sido muy listo. ¿Qué hiciste con él?
 6192354999869877 Lo curé. ¿Y sabes por qué? Porque quería saber lo que <i>harías</i> con él.
 6192354999869878 Está muerto, amigo. Me dijiste que le sacara todo lo que no necesitara… así que lo saqué todo.
 6192354999869879 … Te crees muy graciosillo, ¿verdad? Sí, señor. Muy gracioso. Tendré que andarme con ojo contigo. Fantástico. Maravilloso.
-6192354999869880 Entonces, ¿cuál es el plan?
+6192354999869880 ¿Y cuál es el plan ahora?
 6192354999869881 Has captado la indirecta, Grigory. Será mejor que te cubras las espaldas. Nos vemos.
-6192354999869882 El plan es vivir. Vivir, respirar, robar e irme…\nPor curiosidad, ¿qué encontraste dentro de Silvestre?
+6192354999869882 El plan es vivir. Vivir, reír, delinquir y huir…\nPor curiosidad, ¿qué encontraste dentro de Silvestre?
 6192354999869883 Esto. Que me aspen si a tus hombres no les gustan las dagas, ¿eh? Hasta una bala incendiaria sería menos cruel.
-6192354999869884 Bueno, ya sabes cómo es la gente. Me preguntaba de dónde habían sacado nuestros camaradas del Pueblo la idea de los pinchitos. Entiendo, entiendo… Esto explicaría quién irrumpió en el almacén número ocho la semana pasada. El cordel se desmaraña… Tomaré nota de esto.\nSi por casualidad te topas con más dagas, tráemelas. No vayas por ahí regalándoselas a los niños, incluso si te las cambian por balas.
+6192354999869884 Bueno, ya sabes cómo es la gente. Me preguntaba de dónde habrían sacado los lugareños todos esos pinchos. Entiendo, entiendo… Esto explicaría quién irrumpió en el almacén número ocho la semana pasada. El hilo se desmaraña… Tomaré nota de esto.\nSi por casualidad te topas con más dagas, tráemelas. No vayas por ahí regalándoselas a los niños, incluso si te las cambian por balas.
 6192354999869885 ¿Balas?
 6192354999869886 ¿Niños?
 6192354999869887 Lo sé. Ya me han ofrecido un buen puñado.
-6192354999869888 Esos críos los tienen bien puestos. Jugando a las guerras, armados hasta los dientes. Esos cabroncetes se hicieron con un buen trozo de terreno mientras estabas fuera.\nNo pasará mucho tiempo hasta que el pequeño Kain empiece a mangonearnos. Mira, la cuestión es que te ofrecerán todo tipo de cosas que me han robado a cambio de cosas puntiagudas. Artículos premium. No seas capullo y ven a verme.
-6192354999869889 ¿Premium?
-6192354999869890 No necesito nada "premium". Es todo contrabando.
-6192354999869891 Tengo montado un buen tinglado. Si necesitas armas o cualquier cosa ilegal, ven a verme. Te dejaré mirar las chucherías buenas. Nada gratis, claro está.\nNi tampoco descuentos; mis hombres no lo verían con buenos ojos. Conténtate con que confíe en ti lo suficiente como para hacer cualquier tipo de trato. Y bien, entonces, ¿qué va a ser?
+6192354999869888 Esos críos tienen mucha cara. Jugando a las guerras, armados hasta los dientes. Esos cabroncetes se hicieron con un buen trozo de terreno mientras estabas fuera.\nNo pasará mucho tiempo hasta que el pequeño Kain empiece a darnos órdenes. Mira, la cuestión es que te ofrecerán todo tipo de cosas que me han robado a cambio de cosas punzantes. Hay escasez de artículos de combate. Y prefiero vendértelos yo.
+6192354999869889 ¿Qué clase de artículos faltan?
+6192354999869890 No quiero tus artículos. Son de contrabando, de todos modos.
+6192354999869891 Tengo montado un buen tinglado. Si necesitas armas o cualquier cosa ilegal, ven a verme. Te dejaré mirar las cosas buenas. Nada gratis, claro está.\nNi tampoco descuentos; mis hombres no lo verían con buenos ojos. Conténtate con que confíe en ti lo suficiente como para hacer cualquier tipo de trato. Y bien, entonces, ¿qué va a ser?
 6192354999869892 Lo tendré en cuenta.
 6192354999869893 Eres muy amable.
 6192354999869894 Déjame ver qué tienes.
@@ -511,7 +511,7 @@
 6192354999869899 Los mandamases… está claro. Háblame del equilibrio de poder.
 6192354999869900 La fábrica de rumores.
 6192354999869901 Sigue igual. Saburov "el Halcón" continúa al mando, pero todo lo que hace es graznar, ¡ja!\nLos Kain, como de costumbre: devanándose los sesos con cómo mover el pueblo río abajo. Charlatanes, todos ellos. ¡La Torre ya flota! A este paso, el próximo distrito lo colgarán en las nubes, acuérdate de lo que te digo.\nEn cuanto al patrón… bueno, el patrón es el patrón.
-6192354999869902 ¿Te refieres a Vlad "el Gordo"?
+6192354999869902 ¿Te refieres a Vlad el Gordo?
 6192354999869903 Por supuesto. Ahí sigue plácidamente, el maldito bastardo. Me puso a dirigir los almacenes. Eh, ninguna queja. Un techo sobre mi cabeza y un suelo bajo mis pies; y todo un maldito ferrocarril. No molestas a Vlad y él no te molesta a ti.
 6192354999869904 Es escoria.
 6192354999869905 Sobre todo es un filón, amigo mío. Él maneja todo el cotarro. Alimenta a todo el pueblo. Nos permite ganarnos nuestro sustento.\nY no solo a mí, sino a todos los de por aquí. ¿Cuántos fulanos trabajan en la conservera? ¿Y en la estación? Los almacenes albergan a más de cuatrocientas almas, y a todas se les paga con dinero contante y sonante.
@@ -559,32 +559,32 @@
 6192354999869948 Eso estaría bien. ¿Podría?
 6192354999869949 No será necesario. Ya me he encargado de todo el jaleo… más o menos.
 6192354999869950 Plebe, sin duda. Pero no son animales.
-6192354999869951 ¡Así me gusta! Un mozo independiente… igual que tu padre. Él también detestaba la condescendencia. Siempre haciéndolo todo por sí mismo… ni siquiera aceptaba mis consejos. No se doblegaba ante nadie…\nQué pena. A veces dar el brazo a torcer resulta útil… puede mejorar las cosas para todo el mundo.
-6192354999869952 ¿De qué estás hablando?
-6192354999869953 ¿Sabes quién lo asesinó?
-6192354999869954 ¿No crees que sean bestias? ¡Je, je!
-6192354999869955 Has tratado al pueblo como ganado durante años. ¿De verdad esperas que me ponga de tu parte?
+6192354999869951 ¡Así me gusta! Un mozo independiente… igual que tu padre. Él también detestaba la condescendencia… Siempre haciéndolo todo por sí mismo… ni siquiera aceptaba mis consejos. No se doblegaba ante nadie…\nUna pena. A veces dar el brazo a torcer resulta útil… puede mejorar las cosas para todo el mundo.
+6192354999869952 ¿De qué está hablando?
+6192354999869953 ¿Sabe quién lo asesinó?
+6192354999869954 ¿No crees que sean bestias? Je, je…
+6192354999869955 Ha tratado a mi gente como ganado durante años. ¿De verdad espera que me ponga de su parte?
 6192354999869956 No, no lo son.
-6192354999869957 Todos tenemos una bestia escondida en el interior. Incluso tú, boös.
-6192354999869958 Mi poder es incomensurable, muchacho. ¿O es que lo has olvidado? ¡Todo lo que abarca la vista es mío! Toda la maldita Compañía Toro… el matadero, la fábrica, los almacenes, la estación de ferrocarril… Las mismísimas venas de este pueblo son mis riendas. Es carne y hueso, ¡mi trono!\nSoy su patrón… y espero que se me obedezca.
-6192354999869959 No te pertenezco, boös.
-6192354999869960 ¿Y todos te obedecen realmente?
-6192354999869961 No lo he olvidado, créeme, boös. Y no soy el único que recuerda.
-6192354999869962 Tú no, eso seguro. Pero ya lo veremos… tarde o temprano. Más pronto que tarde.
-6192354999869963 ¿Por qué me has hecho llamar?
-6192354999869964 Entonces ¿estás llevando a cabo una investigación?
-6192354999869965 Fue… asesinado. Esta noche. Mis condolencias. ¿No lo sabías?
-6192354999869966 ¡¿Asesinado?! ¡¿Qué?! ¡¿Por quién?!
-6192354999869967 Al menos… acepta mi consejo. Siempre estaré dispuesto a ayudar al hijo de Isidor.\nQuédate aquí un tiempo… no salgas afuera. Mi casa es grande, hay espacio de sobra. Si necesitas algo solo tienes que llamar a los sirvientes.
+6192354999869957 Todos tenemos una bestia escondida en el interior. Incluso usted, boös.
+6192354999869958 Mi poder es incomensurable, muchacho… ¿O es que lo has olvidado? Todo lo que abarca la vista es mío. Todo el Proyecto Toro… el Matadero, la Factoría, los Almacenes, la Estación… Las mismísimas venas de este pueblo son mis riendas. Carne y huesos, ¡ese es mi trono!\nSoy el Patrón… y espero que se me obedezca.
+6192354999869959 No le pertenezco, boös.
+6192354999869960 ¿Y todos le obedecen realmente?
+6192354999869961 No lo he olvidado, boös. Lo recuerdo todo. Y no soy el único…
+6192354999869962 Tú no, eso seguro. Pero ya lo averiguaremos… tarde o temprano. Más pronto que tarde.
+6192354999869963 ¿Por qué me ha hecho llamar?
+6192354999869964 Entonces, ¿está llevando a cabo una investigación?
+6192354999869965 Tu padre fue… asesinado. Esta noche. Mi más sentido pésame… ¿No lo sabías, entonces?
+6192354999869966 ¡¿Asesinado?! ¿Por quién?
+6192354999869967 Al menos… acepta mi consejo. Siempre estaré dispuesto a ayudar al hijo de Isidor…\nQuédate aquí un tiempo… no salgas afuera. Mi casa es grande… hay espacio de sobra… Si necesitas algo, solo tienes que llamar a los sirvientes.
 6192354999869968 ¿Por qué iba a hacer tal cosa?
 6192354999869969 Gracias. Me lo pensaré.
 6192354999869970 No, no pienso enjaularme.
-6192354999869971 ¡Como si tuvieran alguna opción! Ya he movido unos cuantos hilos. Una cosilla o dos, muchacho… sobre ti y tu estimado padre. La red está en movimiento mientras hablamos.\nLos sirvientes corren la voz hacia las altas esferas… las altas esferas llevan la palabra a estratos más bajos… y dichos estratos tranquilizan a las masas. Y las masas, tarde o temprano, le pondrán las manos encima al asesino de tu padre.
+6192354999869971 Como si tuvieran otra opción… Ya he movido unos cuantos hilos. Una palabra o dos, muchacho… sobre ti y tu estimado padre… La red está en movimiento mientras hablamos.\nLos sirvientes corren la voz hacia las altas esferas… las altas esferas llevan la palabra a estratos más bajos… y dichos estratos tranquilizan a las masas. Y las masas, tarde o temprano, le pondrán las manos encima al asesino de tu padre.
 6192354999869972 Bueno, gracias por confiar en mí.
 6192354999869973 Encontrar al asesino es mi responsabilidad.
-6192354999869974 Por tu bien futuro, muchacho. No hay que precipitarse. Descansa un poco… Has sufrido mucho. Y así el resto del Pueblo también descansará de ti.
-6192354999869975 Te lo agradezco, boös. Pero ya descansaré cuando me muera.
-6192354999869976 Yo me encargaré de mi yo futuro.
+6192354999869974 Por tu futuro, muchacho. ¿Qué prisa hay? Descansa un poco… Has sufrido mucho. Y así la gente del pueblo… también descansará de ti.
+6192354999869975 Se lo agradezco, boös. Pero ya descansaré cuando me muera.
+6192354999869976 Me encargaré de mi futuro yo mismo.
 6192354999869977 Deja de dar vueltas por ahí, muchacho… No hay necesidad de que te marches. No te detendré, pero créeme, ahí fuera solo conseguirás crear más caos.
 6192354999869978 ¿Dónde está padre? Yo… quiero ver su cuerpo.
 6192354999869979 ¿Detenerme? ¿Acaso crees que puedes mantenerme encerrado o algo?
@@ -674,24 +674,24 @@
 6192354999870063 En efecto. Mi respuesta es no.
 6192354999870064 No. Tuya.
 6192354999870065 ¿No quieres saber qué he soñado?
-6192354999870066 Uff… ¿Qué demonios me pasa? Solo ha sido una pesadilla.
+6192354999870066 ¿Qué demonios me pasa? Solo ha sido una pesadilla.
 6192354999870067 De terror, estoy segura. Todos los sueños son proféticos. Y como has sido <i>tú</i> el que ha soñado, te habrás visto a ti mismo derramando sangre. Los detalles ahórramelos, que tengo los nervios delicados.
 6192354999870068 No soy una especie de monstruo… ¿Seguro que era profético?
 6192354999870069 Entonces ¿sabes hipnotizar a la gente?
 6192354999870070 Era profético, no me cabe duda.
 6192354999870071 Soy un hombre de la estepa. Nosotros creemos en el destino. No se puede escapar del destino.
-6192354999870072 Probablemente nada.
-6192354999870073 Así que me estás diciendo que tienes un don, ¿no? Bueno, yo también. Puedo discernir una falacia. Como… ahora mismo.
+6192354999870072 Dudar siempre es bueno.
+6192354999870073 Así que me estás diciendo que tienes un don, ¿no? Bueno, pues yo también. Soy capaz de discernir cuando me están mintiendo. Como tú ahora mismo.
 6192354999870074 … Hipno… ¿qué? No conozco esa palabra. Pero sé muchas cosas. No me refiero a lo que puedo hacer, sino de lo que te estoy hablando. Escúchame, Burakh: márchate de este lugar.\nTus sueños serán más agradables si lo haces. O ve a la guerra. Allí se necesita a gente como tú.
 6192354999870075 Mi guerra está aquí.
 6192354999870076 Tal vez lo haga.
-6192354999870077 ¿Sabes por qué la Tierra no lo acoge?
+6192354999870077 ¿Sabes por qué la tierra no lo acoge?
 6192354999870078 Soy todo oídos.
 6192354999870079 ¿Quién?
 6192354999870080 ¡Desaparece, espectro! Solo eres una ilusión.
-6192354999870081 Tu padre. La Tierra lo expulsa como si fuera un extraño. ¿Ves a esa chica, Alma? ¿La conserje? Está desesperada. Hasta tal punto que se metería ella en la tumba si pudiera.
+6192354999870081 Tu padre. La tierra lo expulsa como si fuera un extraño. ¿Ves a esa chica, Alma? ¿La encargada? Está desesperada. Hasta tal punto que se metería ella en la tumba si pudiera.
 6192354999870082 ¿Acaso sabes de qué estás hablando, vil criatura?
-6192354999870083 ¿Qué? ¿Esa chica es la conserje?
+6192354999870083 ¿Qué? ¿Esa chica es la encargada?
 6192354999870084 Algunas personas son tejedoras, crean conexiones. Otras separan, diseccionan cosas.\nTu padre era un diseccionador. Pero a vosotros los Burakh se os permite, ¿no es así? Sois importantes para la comunidad. Privilegiados. Como un cirujano devoto, tu padre diseccionaba el Pueblo, vivo. O la destrozaba hasta hacerla pedazos con sus propias manos. Como un hombre violento.
 6192354999870085 ¿Cómo lo sabes? Solo llevas aquí unos pocos días.
 6192354999870086 Creo que será mejor que cierres el pico, si no quieres que sea yo el que te haga pedazos.
@@ -704,20 +704,20 @@
 6192354999870093 No lo soy. No trabajo con piel y hueso. Mi especialidad tiene que ver con asuntos más delicados. El alma. Los sentimientos. No lo entenderías…
 6192354999870094 Claro. ¿Cómo podría?
 6192354999870095 No creo que en lo sobrenatural.
-6192354999870096 Oh, oh…
+6192354999870096 Ya, ya…
 6192354999870097 Entonces ella es con quien debería hablar.
 6192354999870098 Entiendo. ¿Estabas hablando de mi padre?
 6192354999870099 ¿Sabes por qué caminas tan encorvado? Porque cargas con el peso de todas las fechorías que estás a punto de cometer.
 6192354999870100 ¿Y tú quién eres?
-6192354999870101 
+6192354999870101 Tienes pinta de ladrona.
 6192354999870102 Depende. Tu mejor amigo o tu peor enemigo. Tú eliges. Así que… ¿amigos?
 6192354999870103 ¿Qué es lo que quieres?
 6192354999870104 No. No me caes bien, chica. Tienes una mirada siniestra.
 6192354999870105 ¿Crees en la adivinación, Burakh?
 6192354999870106 No.
-6192354999870107 Pues claro. ¿Puedes leer la fortuna?
-6192354999870108 
-6192354999870109 Ugh… Eso complica las cosas. Porque estás a punto de hacer algo horrible y podría haberte ahorrado la deshonra.\nDebes ser un hombre lúgubre, egocéntrico y muy obstinado… ¿me equivoco?
+6192354999870107 Pues claro. ¿Puedes leer mi futuro?
+6192354999870108 Bueno, más predicciones…
+6192354999870109 Eso complica las cosas. Porque estás a punto de hacer algo horrible y podría haberte ahorrado la deshonra.\nDebes ser un hombre lúgubre, egocéntrico y muy obstinado… ¿me equivoco?
 6192354999870110 ¿Y qué se supone que es esa cosa deshonrosa que estoy a punto de hacer?
 6192354999870111 En el clavo. Es como si me leyeras la mente.
 6192354999870112 Derramarás muchísima sangre, Burakh. Una cantidad increíble. Ríos de ella. Estimada y querida sangre. Literamente ahogarás este pueblo en sangre, y más pronto que tarde. A menos que confíes en mí.
@@ -1272,7 +1272,7 @@
 6192354999871002 Porque existen dos almas en cada uno de nosotros. ¿Ves a ese gato gris que está persiguiendo su cola? Se llama Artista y siempre estamos juntos. 
 6192354999871003 No veo a ningún gato.
 6192354999871004 Ve al grano. ¿Planeas matar a Lamek? 
-6192354999871005 Por supuesto que no. Él es <i>mi</i> Alma Dual. Jester aparecerá cuando yo confíe en ti. 
+6192354999871005 Pues claro que no. Él es mi otra alma. Artista se te aparecerá cuando yo empiece a confiar en ti.
 6192354999871006 Así que, hablando del tal Lamek…
 6192354999871007 ¡Los Megalitos! ¡En la Estepa, yendo desde la Cesta! ¿No se supone que conocéis todo esto? ¿O vuestro amigo de la estepa tiene nombres diferentes para todo?  
 6192354999871008 No, es lo mismo. Conozco el lugar.
@@ -1332,22 +1332,22 @@
 6192354999871062 Entonces quédate aquí con nosotros. Esto es un santuario. Ningún adulto se atreve a entrar. 
 6192354999871063 Entendido. Aprecio la hospitalidad. 
 6192354999871064 … Así que, ¿quieres que me encargue de vuestro asesino? 
-6192354999871065 Cada uno de nosotros tiene un Alma Dual, además de nuestra propia alma. ¿Ves al gato gris que está persiguiendo su cola? Es Bufón, siempre estamos juntos.
+6192354999871065 Cada uno de nosotros tiene un Alma Dual, además de nuestra propia alma. ¿Ves al gato gris que está persiguiendo su cola? Es Artista, siempre estamos juntos.
 6192354999871066 No veo a ningún gato.
 6192354999871067 Ah, comprendo. ¿Se puede decir que el animal es la tercera parte de vuestra alma? 
-6192354999871068 Por supuesto que no. Él es <i>mi</i> Alma Dual. Bufón aparecerá cuando yo confíe en ti. 
+6192354999871068 Pues claro que no. Él es mi otra alma. Artista se te aparecerá cuando yo empiece a confiar en ti.
 6192354999871069 Veo que aún nadie confía en mí lo suficiente…
 6192354999871070 En efecto.
 6192354999871071 Volviendo al tema, ¿por qué has mencionado la venganza? 
-6192354999871152 Bufón piensa que eres un buen tipo, y no es el único. Así que mira: te entregamos solemnemente su correa.\nSignifica que aquí siempre serás bien recibido y que puede que hasta un día obtengas tu Alma Dual, cosa que no todo el mundo consigue.
-6192354999871153 ¿Quién es Bufón?
+6192354999871152 Artista piensa que eres un buen tipo, y no es el único. Así que mira: te entregamos solemnemente su correa.\nSignifica que aquí siempre serás bien recibido y que puede que hasta un día obtengas tu segunda alma, cosa que no todo el mundo consigue.
+6192354999871153 ¿Quién es Artista?
 6192354999871154 ¿Qué le habéis hecho al chico? 
-6192354999871155 Aún no me voy a echar flores porque he dejado marchar a Lamek.
-6192354999871156 ¿Un "Alma Dual"?
+6192354999871155 No te apresures a alabarme. Dejé ir a Lamek.
+6192354999871156 ¿Mi segunda alma?
 6192354999871157 Como ves, no lo hemos matado. 
 6192354999871158 Bien. En lugar de matarlo, ¿qué habéis hecho?
 6192354999871159 No estoy muy seguro…
-6192354999871160 Mi gato es mi Alma Dual. Se llama Bufón porque es funambulista, se pone de pie con sus patas delanteras y come patatas crudas.
+6192354999871160 Mi gato es mi par. Se llama Artista porque es funambulista, se pone de pie con sus patas delanteras y come patatas crudas.
 6192354999871161 Genial.
 6192354999871162 ¿Puedo verlo?
 6192354999871163 ¿Qué le habéis hecho a Lamek? 
@@ -1359,7 +1359,7 @@
 6192354999871169 La gente no se atreve a cavar agujeros en el pueblo. De eso me acuerdo. ¿O acaso han cambiado las cosas?
 6192354999871170 Está a dos metros bajo tierra, ¿verdad?
 6192354999871171 ¿"Bajo tierra"? ¿Qué habéis <i>hecho</i>, gamberros? ¿Es que no sabéis nada, ni <i>siquiera algo </i> del suelo que pisáis? 
-6192354999871172 No ha cambiado nada, pero al menos existe un hoyo.
+6192354999871172 No, nada ha cambiado. Pero sí que hay un hoyo.
 6192354999871173 ¿Es que alguien ha perdido la cabeza…? ¿Dónde se encuentra? 
 6192354999871174 Vamos, ¿lo dices en serio? Son cuentos de viejas…
 6192354999871175 ¡Idiotas, no lo son! 
@@ -1368,25 +1368,25 @@
 6192354999871178 En el Pueblo está prohibido cavar pozos. Así que dejad de intentar engañarme. 
 6192354999871179 … No puedo decirlo. He dado mi palabra.
 6192354999871180 La persona que profanó la Tierra lo lamentará <i>muy</i> pronto. 
-6192354999871181 Me parece justo. No os delataré, pero encontraré yo mismo al culpable. 
+6192354999871181 Me parece justo. No te haré ser un soplón, pero encontraré yo mismo al culpable.
 6192354999871182 … ¿Le has dejado marchar?
 6192354999871183 Le he dejado marchar.
 6192354999871184 Si voy a reemplazar a padre, déjame decirte que aquí finaliza tu primera lección.
-6192354999871185 … No cambia nada. Quédate la correa. Pero por ahora vete, necesito pensar. 
+6192354999871185 No cambia nada. Quédate la correa. Pero por ahora vete, necesito pensar. 
 6192354999871186 Hazlo, será bueno para ti. 
-6192354999871187 Entenderás un día porqué, muchacho.
-6192354999871188 Un Alma Dual más, quizá un grajo, un perro o un gato… Aunque probablemente consigas un animal más grande, como un oso o un toro. Nunca hemos tenido un Alma Dual así. 
+6192354999871187 Algún día entenderás por qué, muchacho.
+6192354999871188 Un alma que formará un par. Tal vez un grajo, un perro o un gato… Aunque probablemente consigas un animal más grande, como un oso o un toro. Nunca hemos tenido un alma así.
 6192354999871189 ¿Qué le habéis hecho al chico? 
 6192354999871190 He dejado marchar a Lamek.
 6192354999871191 Puede que domestiques a tu propio dragón cuando crezcas. 
-6192354999871192 ¿Ves a la muchacha sentada allí? Es Arisca. Te ha visto bajar del tren esta mañana y cómo te atacaban: lo ha visto todo.\nPero no habla mucho y creo que pocos adultos la creerían. Aunque es mejor que nada. 
+6192354999871192 Ahora mira. ¿Ves a Arisca? Está ahí sentada con el ceño fruncido. Te ha visto bajar del tren esta mañana y cómo te atacaban con cuchillos. Lo ha visto todo.\nPero no habla mucho y creo que pocos adultos la creerían. Aunque es mejor que nada.
 6192354999871193 Gracias, tendré unas palabras con ella.
-6192354999871194 Preferiría no involucrar a una huérfana en esto. Este asunto ya es bastanta turbio. 
+6192354999871194 Preferiría no involucrar a una huérfana en esto. Este asunto ya es bastante bronco. 
 6192354999871268 Ayer me contaron que mataste a tu padre. 
 6192354999871269 Y les creíste de inmediato…
 6192354999871270 ¿Quién te lo dijo?
 6192354999871271 ¡Oh, por supuesto! ¡Matar a mi padre era el sueño de mi vida!
-6192354999871272 El Pueblo entero así lo creía. Primeron averiguaron que había fallecido, después que había sido asesinado por un forastero y te señalaron a ti. 
+6192354999871272 El pueblo entero así lo creía. Primero averiguaron que había fallecido, después que había sido asesinado por un forastero y te señalaron a ti.
 6192354999871273 Eres idiota.
 6192354999871274 Lo único cierto de todas esas sandeces es que llegué la noche en la que lo asesinaron. 
 6192354999871275 ¡Sabías lo mucho que me preocupaba por él! Entonces, ¿por qué, idiota? ¿Todo para qué?
@@ -1434,8 +1434,8 @@
 6192354999871347 ¿Parricida? ¿Te has vuelto loco? 
 6192354999871348 Pégame si lo deseas, ¡pero escúchame! 
 6192354999871349 No lo olvidaré.
-6192354999871350 Oh, eres tú. Lamentamos lo de ayer: ya sabes, haberte señalado como principal sospechoso. Fue algo impulsivo. Pero no quiero oír ninguna queja; no es algo irreparable
-6192354999871351 Cierto, no es que hayáis tratado de ejecutarme o algo parecido. Right. No es irreparable el ser tildado como asesino y ser perseguido como un perro. 
+6192354999871350 Ah, eres tú. Lamentamos lo de ayer. Ya sabes, haberte señalado como principal sospechoso. Fue algo impulsivo.\nPero no quiero oír ninguna queja. No ocurrió nada que no se pueda reparar.
+6192354999871351 Es decir, habiáis firmado mi sentencia de muerte, pero no os dio tiempo a ejecutar la orden. ¿Es así?
 6192354999871352 ¿Habéis hallado al asesino de mi padre? 
 6192354999871353 Olvídate de eso. Gracias a tus órdenes mi hogar está acordonado, al igual que el distrito. Necesito la llave y un pase. 
 6192354999871354 Gracias a ti anoche dormí en un lugar realmente cómodo. Pero hoy me gustaría dormir en mi propio hogar. Necesito la llave.
@@ -1445,7 +1445,7 @@
 6192354999871358 No lidero ninguna investigación. No hay una búsqueda organizada y no poseo ningún cargo oficial, en caso de que te hubieses hecho ilusiones. Mi poder se halla en mi reputación. Tradicionalmente, mi familia impone el orden en el Pueblo en las escasas ocasiones en las que se ve alterado. Y, ciertamente, son muy escasas las situaciones, créeme. Este es un Pueblo pequeño y pacífico.
 6192354999871359 Lo sé. Y tú eres el alguacil. 
 6192354999871360 ¿Cómo puedes hablar de orden si nadie está buscando al asesino? 
-6192354999871361 Trasladaron el cuerpo del difunto al cementerio.\n Era un hombre de la estepa, ¿cierto? Según los ritos del Dogma, el fallecido tiene que ser enterrado el día del fallecimiento o al menos lo más rápido posible. Por lo que los preparativos ya estarán en marcha. 
+6192354999871361 Trasladaron el cuerpo del difunto al cementerio.\nEra un hombre de la estepa, ¿cierto? Según los ritos del Dogma, el fallecido tiene que ser enterrado el día del fallecimiento o al menos lo más rápido posible. Por lo que los preparativos ya estarán en marcha. 
 6192354999871362 ¿Por qué no has dicho eso desde el principio? 
 6192354999871363 Entonces tengo que apresurarme. 
 6192354999871364 ¿Hay algo más que pueda hacer por ti? 
@@ -1461,7 +1461,7 @@
 6192354999871374 Necesito un pase. Tu gente está bloqueando los distritos. 
 6192354999871375 Si quieres ir inmediatamente, no se te permitirá entrar de todos modos. 
 6192354999871376 ¿Por qué?
-6192354999871377 Se ha cercado el distrito por orden mía y por consejo del Licenciado Dankovsky. Permanercer allí puede ser dañino. Solo se permite personal médico.\nPero recuerdo que eres médico, ¿correcto? 
+6192354999871377 Se ha cercado el distrito por orden mía y por consejo del Licenciado Dankovsky. Permanecer allí puede ser dañino para la salud. Solo se permite personal médico.\nPero, si no recuerdo mal, usted es médico, ¿verdad?
 6192354999871378 Sí. Firma un pase para mí y te dejaré en paz. 
 6192354999871379 Sí, puedo ocuparme de mí mismo. 
 6192354999871380 ¿Algo más?
@@ -1486,7 +1486,7 @@
 6192354999871399 Pertenezco al Pueblo, pero he estado fuera por un tiempo. 
 6192354999871400 Niño, ¿a qué viene esa mirada asesina? 
 6192354999871401 Te pareces mucho al Viejo. Tanto que podrías ser su hijo. 
-6192354999871402 <i>Soy<\i> su hijo.
+6192354999871402 <i>Soy</i> su hijo.
 6192354999871403 Lo que quiero saber es… ¿Por qué estás cubierto de sangre? 
 6192354999871404 No es de tu incumbencia.
 6192354999871405 ¿Es que no has visto cómo son las calles?
@@ -1743,13 +1743,13 @@
 6192354999872099 Tu padre sí, era un hombre sabio en todos los sentidos de la palabra. No era solo médico, era un hombre verdaderamente sabio.
 6192354999872100 ¿Dejaréis en paz a mi padre?
 6192354999872101 Padre… estaba muy apegado a la tradición. Pero lo pasado, pasado está. 
-6192354999872102 Incluso es mejor.
+6192354999872102 Eso es incluso mejor
 6192354999872103 ¿Cómo puede ser mejor? 
 6192354999872104 No, viejo, no es mejor. Soy un don nadie.  
 6192354999872105 ¿Cómo te lo puedo explicar? Tengo cierta necesidad. Pero ahora que el viejo Burakh está muerto, nadie puede ayudarme, incluyendo su hijo. Ni siquiera te ofrezcas.
 6192354999872106 ¿Por qué no puedo ayudar? 
 6192354999872107 No estaba planeando hacerlo. 
-6192354999872108 … Y eso es porque tú y yo no tenemos nada de lo que hablar aún. Puede que sepas cómo sujetar un escalpelo, pero no conoces las Líneas.\nY en este Pueblo, nadie confiaría en ti para que cortes un cuerpo si antes no has comprendido el diseño del mundo, por lo que no puedes ayudarme. 
+6192354999872108 Y justo por eso es por lo que tú y yo no tenemos nada de lo que hablar aún. Puede que sepas cómo sujetar un escalpelo, pero no conoces las Líneas.\nY en este pueblo nadie confiaría en ti para que cortes un cuerpo si antes no has comprendido el diseño del mundo, por lo que no puedes ayudarme. 
 6192354999872109 De todas formas, ¿quién eres tú?
 6192354999872110 Ahórrate tus problemas, viejo. Ya tengo suficiente con los míos. 
 6192354999872111 Soy Var. Poseo un negocio algo… inusual. Tu padre me entregaba cierta… mercancía.\nAhora he venido a preguntarle a Grifo… Es un bandido, después de todo, tiene sus propias leyes. Pero resulta que es demasiado ingenuo para cruzar esta frontera en concreto…
@@ -1765,13 +1765,13 @@
 6192354999872121 No. Tengo algo para ti, viejo. ¿Era esto lo que necesitabas? 
 6192354999872122 Te has atrevido… Pero aún no estás preparado. Estás empezando la casa por el tejado. Y eso te meterá en problemas. 
 6192354999872123 Soy un tipo osado. ¿Lo tomas o lo dejas? 
-6192354999872124 No me precipito tanto como piensas. Pero primero dime para qué lo necesitas.  
-6192354999872125 Sí, me he atrevido. Pero eso no es lo que alguien tan despistado como tú debería meterse en la cabeza. Dejaste este pueblo cuando eras un niño. Nunca la conociste, y hasta esos retazos están ya perdidos y olvidados. Edúcate. Respira el aire empapado de twyra. Ve a conocer a los mayores.\nNo te apures, Burakh. Gánate el respeto. Entonces tendrás tus respuestas.
-6192354999872126 Te he oído alto y claro, viejo. Var, ¿cierto? 
+6192354999872124 No me precipito tanto como piensas. Primero dime para qué lo necesitas.
+6192354999872125 Sí, lo conocía. Pero eso no es con lo que alguien con tan poca idea como tú debería estar pudriéndose el cerebro. Dejaste este pueblo cuando eras un niño. Nunca lo conociste de verdad, y hasta esos retazos están ya perdidos y olvidados. Edúcate. Respira el aire empapado de twyra. Ve a conocer a los mayores.\nTómate tu tiempo, Burakh. Gánate el respeto. Entonces tendrás tus respuestas.
+6192354999872126 Te he oído alto y claro, viejo. Var, ¿cierto?
 6192354999872127 Pero tengo que apresurarme. Mira lo que te he traído. 
 6192354999872128 No. Aún no eres un auténtico menkhu, por lo que no lo entenderías.\nSi eliges meterte de lleno en esto, no soy el indicado para juzgarte. Aceptaré la mercancía, pero no es mi deber educarte.
 6192354999872129 Entonces no puedes tener la mercancía. 
-6192354999872130 Necesito monedas. Cógelo. 
+6192354999872130 Necesito el dinero. Cógelo. 
 6192354999872134 ¿Quién eres? ¿Qué es lo que quieres?
 6192354999872135 El sitio apesta a sangre.
 6192354999872136 Soy Artemy Burakh.
@@ -1795,26 +1795,26 @@
 6192354999872154 Me parece justo.
 6192354999872155 Esas cosas no son baratas.
 6192354999872156 Emshen es un hombre valiente. Fuerte es su espíritu. ¿Cómo está tu ganado, emshen? Bite kharaan, pues ha venido a presentar sus últimos respetos a su padre, al igual que nosotros.
-6192354999872157 ¿Cómo se encuentra tu ganado, Khatangher?
-6192354999872158 Silvestrerlaa, gracias. ¿Por qué aún no han enterrado a padre? 
+6192354999872157 ¿Cómo está tu ganado, khatangher?
+6192354999872158 Bayarlaa, gracias. ¿Por qué aún no han enterrado a padre? 
 6192354999872159 Bite kharaan, ubshe está en el umbral. Una enorme pérdida. Hay que hablar, decir las palabras correctas. Observar el rito
 6192354999872160 He venido a presentar los últimos respetos a mi padre. ¿A qué se debe este espectáculo?
 6192354999872161 Khodo khara, Burakh, esegher portaba una gran carga, pues tenía una gran deuda. ¿Quién se hará cargo de su labor?  
 6192354999872162 No estoy aquí por su labor. Necesito inspeccionar sus heridas. 
 6192354999872163 Be khara, no es tan sencillo. ¿Qué es lo que mi padre debe? 
 6192354999872164 Ante la mirada de el Dogma y la Tierra, he aquí mis palabras: yo, hijo de Isidor, acepto su labor como propia. El cielo es testigo de ello.
-6192354999872165 Me inclino ante ti, emshen. La primera sangre es la tuya. Be Khara, emshen es un hombre valiente.\n Tienes ante ti a Sabha Put'sulae. Has aceptado su labor. Ahora obtén la herencia. Sahba te mostrará el camino. 
-6192354999872166 Silvestrertai, khyn. Gracias.
-6192354999872167 Silvestrerlaa, he hecho lo que había que hacer. No había elección. 
+6192354999872165 Me inclino ante ti, emshen. La primera sangre es la tuya. Be Khara, emshen es un hombre valiente.\nTienes ante ti a Sabha Put'sulae. Has aceptado su labor. Ahora obtén la herencia. Sahba te mostrará el camino. 
+6192354999872166 Bayartai, khyn. Gracias.
+6192354999872167 Bayarlaa, he hecho lo que había que hacer. No había elección. 
 6192354999872168 Sí. Acabo de hacer algo muy valiente.
-6192354999872169 Te has equivocado, emshen. Be Khara, no sabías a qué venías, so you welcome the wrong guest. Responde ahora: ¿aceptas su labor como propia?
+6192354999872169 Te has equivocado de camino, emshen. Tropiezas en el lugar equivocado. Be khara, no sabías a qué venías. Responde ahora: ¿aceptas su labor como propia?
 6192354999872170 Be tatgalzah. No la acepto. No puedo.
 6192354999872171 Ante la mirada de el Dogma y la Tierra, he aquí mis palabras: yo, hijo de Isidor, acepto su labor como propia. El cielo es testigo de ello.
 6192354999872172 No nos lo dijo, emshen; se lo llevó a la tumba. Le has preguntado a las personas equivocadas. Demasiado tarde, emshen. La Tierra aguarda. Responde ahora: ¿aceptas su labor como propia? 
 6192354999872173 Be tatgalzah. No la acepto. No puedo.
 6192354999872174 Ante la mirada de el Dogma y la Tierra, he aquí mis palabras: yo, hijo de Isidor, acepto su labor como propia. El cielo es testigo de ello.
 6192354999872175 Espera, primero quiero echar un vistazo al cuerpo. 
-6192354999872176 Be Khara, emshen es cauto. ¿Quién lo juzgará? Si la Tierra no toma a Burakh-esegher, déjanos incinerar su cuerpo.
+6192354999872176 Be khara, emshen es cauto. ¿Quién lo juzgará? Si la Tierra no toma a Burakh-esegher, déjanos incinerar su cuerpo.
 6192354999872177 Lo que sea. Quiero acabar con todo esto. 
 6192354999872178 … No. Esto no está bien. Ante la mirada de el Dogma y la Tierra, he aquí mis palabras: yo, hijo de Isidor, acepto su labor como propia. El cielo es testigo de ello.
 6192354999872179 Muy pronto muchos se marcharán. Apresúrate, emshen. 
@@ -1826,13 +1826,13 @@
 6192354999872213 ¡Padre! ¿Puedes escucharme?
 6192354999872214 … No hay lugar para el arrepentimiento o confesiones. Lo debería haber hecho hace cinco años, durante el primer brote. No fui lo suficientemente valiente. Se propagaba como un fuego incontrolado. 
 6192354999872215 ¡Padre! ¿Quién te asesinó?
-6192354999872216 Padre, ¿qué es lo que debías? ¿Por qué la Tierra te ha expulsado? 
+6192354999872216 Padre, ¿qué es lo que debías? ¿Por qué te ha expulsado la tierra?
 6192354999872217 Padre, ¿con quién estás hablando? Soy yo, Artemy, tu hijo. 
-6192354999872218 No has de temer. La muerte no es el peor destino que le aguarda a un hombre o a una ciudad. Uno se gana el derecho a la vida cuando se derrota a la muerte. Me di cuenta hace poco, pero es cierto. Díselo al Dogma.
+6192354999872218 No has de temer. La muerte no es el peor destino que le aguarda a un hombre o a un pueblo. Uno se gana el derecho a la vida cuando se derrota a la muerte. Me di cuenta hace poco, pero es cierto. Díselo al Dogma.
 6192354999872219 Estás hablando con alguien más…
 6192354999872220 ¿He hecho hoy lo correcto? ¿He elegido el camino adecuado? 
 6192354999872221 Lamento haber llegado tarde. Lo intenté… pero no lo suficiente. Lo siento tanto.
-6192354999872222 … Será difícil y terrible. Mi corazón sufre por aquellos que fallarán la prueba. Algunos morirán, otros no. Aun así, no podríamos seguir viviendo a la antigua manera(???). ¿En qué diferimos de los animales? Así es la naturaleza: solo los fuertes sobreviven.
+6192354999872222 … Será difícil y aterrador. Mi corazón sufre por aquellos que no superarán la prueba. Algunos morirán, otros no. Aun así, no podemos seguir viviendo a la antigua manera. ¿En qué nos diferenciamos de los animales? Así es como funciona la naturaleza. Los fuertes sobreviven. Los débiles, no.
 6192354999872223 ¿De qué estás hablando? 
 6192354999872224 ¿Qué paso hace cinco años? 
 6192354999872225 ¡No tienes que darle explicaciones a nadie! 
@@ -1996,19 +1996,19 @@
 6192354999873000 He comerciado con todos los sujetos de el Pueblo. Ahora me aceptan como uno más de los suyos. 
 6192354999873001 
 6192354999873002 He llegado demasiado tarde: padre ha muerto. 
-6192354999873003 Necesito tallos de twyra negra, twyra de sangre, twyra marrón y saviera.
-6192354999873004 Necesito tallos de twyra negra, twyra de sangre y twyra marrón.
+6192354999873003 Necesito tallos de twyra negra, twyra escarlata, twyra marrón y saviera.
+6192354999873004 Necesito tallos de twyra negra, twyra escarlata y twyra marrón.
 6192354999873005 Shabnak-adyr, un golem de arcilla perteneciente a las leyendas locales, roba la forma de mujeres jóvenes. 
 6192354999873006 Necesito tallos de twyra negra, twyra marrón y saviera. 
-6192354999873007 Necesito tallos de twyra de sangre, twyra marrón y saviera.
+6192354999873007 Necesito tallos de twyra escarlata, twyra marrón y saviera.
 6192354999873008 No pueden sospechar que soy el parricida, ¿no? Por supuesto que no. Imposible. 
 6192354999873009 Necesito tallos de twyra negra y marrón. 
-6192354999873010 Necesito tallos de twyra de sangre y marrón.
+6192354999873010 Necesito tallos de twyra escarlata y marrón.
 6192354999873011 ¿Pudo ser padre asesinado por la amenaza que mencionaba y por la cosa que me hizo invocar tan urgentemente? Es posible…
-6192354999873012 Necesito tallos de twyra de sangre y saviera. 
+6192354999873012 Necesito tallos de twyra escarlata y saviera. 
 6192354999873013 Necesito tallos de twyra marrón y saviera.  
 6192354999873014 Lara Ravel vive junto al río en un lugar llamado el Refugio. Éramos amigos de pequeños. Con suerte, puede que me deje dormir en su hogar.  
-6192354999873015 Ahora solo tengo que recoger tallos de twyra de sangre. 
+6192354999873015 Ahora solo tengo que recoger tallos de twyra escarlata. 
 6192354999873016 Ahora solo tengo que recoger tallos de twyra marrón.
 6192354999873017 El refugio de Lara es ahora el mío. Esperaba que estuviese más feliz al verme. Aun así, puedo quedarme en su hogar.
 6192354999873018 He recogido todas las hierbas. 
@@ -2190,46 +2190,46 @@
 6192354999937662 Un cuerpo humano es la suma de su circulación. Pero a menudo necesita ser interrumpida para determinados procedimientos médicos.
 6192354999937666 Cerebro
 6192354999937667 Una sección del tejido cerebral.
-6192354999937668 "La sangre solo es un conjunto de glóbulos rojos y blancos. Contienen información, claro, pero ¿cómo se puede comparar con la magnificencia del cerebro?", se planteó Dankovsky una vez.\nY aun así un cerebro solo es un trozo de carne aburrido.
+6192354999937668 "La sangre solo es un conjunto de glóbulos rojos y blancos. Contienen información, claro, pero, ¿cómo se puede comparar con la magnificencia del cerebro?", se planteó Dankovsky una vez.\nY aun así un cerebro solo es un trozo de carne aburrido.
 6192354999937669 Pan
 6192354999937670 El pan es el corazón de la vida. Es muy sustancioso.
 6192354999937671 Nunca tires el pan al suelo. Si estás lleno, dáselo a un amigo. ¿Que no tienes amigos? Dáselo a un enemigo. Joder, dáselo a un perro. Pero no lo desperdicies.
 6192354999937851 ¡Por fin! ¡La multitud se reúne para presenciar mi acto! Siéntense… y ahora observen: ¡Muerte por inanición!
 6192354999937852 Estoy demasiado ocupado… pero hablando de hambre, ¿tienes algo de comida? Mataría por unas tostadas viejas y secas… 
 6192354999937853 Esta sed sigue acercándome a mi muerte.
-6192354999937854 No seas idiota. <i>Yo soy</i> el que se está muriendo de sed.
-6192354999937855 … Me siento exhausto. ¡A punto de desvanecerme! "Muerto de cansancio", dicen. Me pregunto qué significa.
+6192354999937854 No seas idiota. Soy yo el que se está muriendo de sed.
+6192354999937855 … Estoy exhausto. ¡A punto de desvanecerme! "Muerto de cansancio", dicen. Me pregunto qué significa.
 6192354999937856 No se me dan bien los acertijos.
-6192354999937857 ¿… Qué tal un poco de agua?
-6192354999937858 En efecto: mire cómo represento su destino, querido idiota. "¡Ayuda! ¡Necesito ayuda! Esta sed me va a matar".
+6192354999937857 ¿Qué tal si bebes un poco de agua?
+6192354999937858 Así es. Mira cómo represento tu destino… idiota. "¡Ayuda! ¡Que alguien me ayude! ¡Me muero de sed!"
 6192354999937859 Sigue. Quiero saber cómo termina.
-6192354999937860 Mueres, amigo mío; así es como termina. El agua está en todas partes. Aunque un charco quizá no sea el mejor trago: Bebe de las fuentes o de los cubos. Una botella es todo lo que necesitas. Toma una.
+6192354999937860 Mueres, amigo mío. Así es cómo termina. ¡Hay agua por todas partes! No puedes cavar un pozo, así que bebe de las fuentes o de los barriles. Una botella es todo lo que necesitas. Toma una.
 6192354999937861 Gracias por la botella, chiflado.
-6192354999937862 ¡No tengo agua, señor! Ya ve cómo sufro sin encontrar ninguna solución.
-6192354999937863 Yo también…
-6192354999937864 Solo es una mala actuación. Yo no soy así de emocional.
+6192354999937862 Como puedes ver, no tengo agua. ¡Estoy desesperado! No sé qué hacer.
+6192354999937863 Yo estoy igual…
+6192354999937864 Es una mala actuación. Yo no soy así de emocional.
 6192354999937865 ¿No? Es difícil saberlo contigo. Pero si te crees tan listo, pregúntate: ¿qué pasa después?
 6192354999937866 No lo sé.
-6192354999937867 Alguien, no yo, recibe una buena patada.
-6192354999937868 Me las arreglaré sin tus ridículos consejos, de todas formas.
-6192354999937869 ¿Entonces el buen señor desea una rodaja? ¡Tome una! No debería durarle mucho. Mi acto continúa en media hora. Vengan y observen: ¡Muerte por inanición, señoras y señores!
-6192354999937870 Está bien. Ya encontraré a otro chiflado con tostadas.
-6192354999937871 ¡Incorrecto! Deberías buscar chiflados que comercien con basura. Tal vez sean demasiado idiotas como para verte hurgar en sus miserables cosas.
+6192354999937867 Alguien, y no yo, saldrá herido.
+6192354999937868 Me las arreglaré sin tus ridículos consejos… de alguna forma.
+6192354999937869 ¿Desea el señor una tostada? Aquí la tiene. Pero no le durará mucho. En media hora comienza mi siguiente acto. Vengan y observen: ¡"Muerte por inanición", señoras y señores!
+6192354999937870 Da igual. Ya encontraré a otro payaso con tostadas.
+6192354999937871 Te equivocas. Deberías buscar chiflados que intercambien comida por basura. O tal vez propietarios de casas lo suficientemente imprudentes como para no darse cuenta de como hurgas en sus miserables posesiones delante de sus narices.
 6192354999937872 Yo respeto las propiedades ajenas.
-6192354999937873 … en realidad no es una mala idea. Creo que tu "actuación" podría atrasarse después de todo.
+6192354999937873 En realidad, no es una mala idea… Creo que se podría posponer tu representación por ahora.
 6192354999937874 ¿En serio? Entonces nuestra gran audiencia pronto se deleitará con nuestra obra: ¡Muerte por inanición! Burakh, ¿puedes sentir ahora sus hambrientas miradas?
-6192354999937875 … creo que me voy a ir. Gracias por la tostada, bicho raro.
+6192354999937875 Creo que me voy a ir. Gracias por la tostada, bicho raro.
 6192354999937876 Me parece justo… ¿Puedes darme una ganzúa entonces?
 6192354999937877 Mala suerte. Afortunadamente, a diferencia de ti, no estoy cerca de morirme de hambre.
 6192354999937878 Significa que necesitas dormir un poco.
 6192354999937879 Cuando el cansancio alcanza su punto álgido, la muerte le sigue. ¿Pero cómo puede alguien escapar de un destino tan triste?
 6192354999937880 Durmiendo un poco.
 6192354999937881 Sorpréndeme.
-6192354999937882 ¡Pero pobre de mí, pues no tengo donde dormir! Las puertas se cierran ante este humilde tragediano que ya no es bienvenido en su hogar.
+6192354999937882 ¡Pero pobre de mí, pues no tengo donde dormir! Las puertas se cierran ante este humilde Trágico que ya no es bienvenido en su hogar.
 6192354999937883 Yo igual.
 6192354999937884 ¿No hay ninguna cabaña para los desamparados del Pueblo?
 6192354999937885 ¡Vete a casa, Burakh! El reposo te hará bien. Pero si encuentras el catre de otro: sé rápido. Dulces sueños, cazainfortunios.
-6192354999937886 … Gracias. Igualmente.
+6192354999937886 Gracias. Igualmente.
 6192354999937887 ¿Quién sabe? Pero tú, Burakh, no eres un simple vagabundo. A un héroe como tú no le dejarán entrar.
 6192354999937888 Dormiré cuando esté muerto, supongo.
 6192354999937889 Una ganzúa me permitiría entrar, si tan solo tuviera una…
@@ -2252,7 +2252,7 @@
 6192354999938352 Es un objeto inservible. La carcasa de una ampolla de morfina.
 6192354999938353 Los objetos que se usan para ganar salud se acaban. ¿Quién podría querer esto?
 6192354999938354 Tijeras rotas
-6192354999938355 Los Moerae deben tener prisa.
+6192354999938355 Las Moiras debían tener prisa.
 6192354999938356 Se rumorea que Clara la Impostora, una ladrona que dice ser una santa, puede arreglar cualquier objeto afilado con la misma facilidad con la que cura la plaga de la arena, tan solo poniendo sus manos encima.
 6192354999938357 Escarabajo
 6192354999938358 Un hallazgo sorprendente en otoño, aunque inútil.
@@ -2563,7 +2563,7 @@
 6192354999952455 Tonterías. Solo son cuentos de viejas.
 6192354999952456 Sí. Nunca antes habíamos sufrido algo como esto… no, no de esta manera. Recuerda mis palabras: el fin está cerca. La estrella del Ajenjo se eleva en el cielo nocturno.
 6192354999952457 A lo mejor es el final.
-6192354999952458 Isidor no tiene nada que ver con esto. Es culpa tuya.
+6192354999952458 Isidor no tiene nada que ver con esto. Eso es cosa tuya.
 6192354999952459 Nada de esto es mi culpa.
 6192354999952460 Un shabnak-adgy siempre toma la forma de una mujer, pero solo es una mera ilusión que se rompe en el momento en el que empiezan a correr. Ahí es cuando te fijas en sus piernas de hueso y arcilla. No deja ningún rastro. Cuando corre, la ilusión se desvanece.
 6192354999952461 ¡Los shabnak-adgy son un mito! No existen.
@@ -2609,7 +2609,7 @@
 6192354999952510 Ya sabes quién. ¡He dicho que te vayas! ¡No tengo nada que hablar contigo! Y deja de mirarme, no te tengo miedo. ¡Voy a gritar!
 6192354999952511 ¿Por qué no lo haces? ¡Vamos!
 6192354999952512 ¡Cállate! Cállate o voy a gritar.
-6192354999952951 Pobrecito… Nosotros seguimos pensando que estás bien.
+6192354999952951 Pobrecito… Nosotros seguimos pensando que eres buena persona.
 6192354999952952 ¿Sientes pena por mí? Eres un ángel.
 6192354999952953 ¿Nosotros? ¿Quién?
 6192354999952954 Sí.
@@ -3609,12 +3609,12 @@
 6192355000131565 Una mezcla de hierbas y órganos humanos se llama "caldo muerto". Se cree que absorbe la muerte y la debilidad, fortaleciendo a quién lo toma.\n\nMis analgésicos caseros tienen una propiedad oculta: desvían la plaga. Si veo que el mundo se oscurece debido a la infección, tomar uno aliviará el efecto.
 6192355000131566 Una mezcla de hierbas y órganos humanos se llama "caldo muerto". Se cree que absorbe la muerte y la debilidad, fortaleciendo a quién lo toma.\n\nMis analgésicos caseros tienen una propiedad oculta: desvían la plaga. Si veo que el mundo se oscurece debido a la infección, tomar uno aliviará el efecto.
 6192355000131567 Una mezcla de hierbas y órganos humanos se llama "caldo muerto". Se cree que absorbe la muerte y la debilidad, fortaleciendo a quién lo toma.\n\nMis analgésicos caseros tienen una propiedad oculta: desvían la plaga. Si veo que el mundo se oscurece debido a la infección, tomar uno aliviará el efecto.
-6192355000131568 Las hierbas son las palabras de la Tierra. Ella nos las da al abrirse; y así, una hierba dada a un cuerpo humano puede decirnos lo que le aflige.\n\nCada hoja de Twyra es única. Los herbolarios las distinguen por sus voces.
-6192355000131569 Las hierbas son las palabras de la Tierra. Ella nos las da al abrirse; y así, una hierba dada a un cuerpo humano puede decirnos lo que le aflige.\n\nEl fresno de ceniza tiene un olor acerbo y una textura espinosa.
-6192355000131570 Las hierbas son las palabras de la Tierra. Ella nos las da al abrirse; y así, una hierba dada a un cuerpo humano puede decirnos lo que le aflige.\n\nElswevery es plano, pero resistente.
+6192355000131568 Las hierbas son las palabras de la tierra. Ella nos las da al abrirse; y así, una hierba dada a un cuerpo humano puede decirnos lo que le aflige.\n\nCada hoja de twyra es única. Los herbolarios las distinguen por sus voces.
+6192355000131569 Las hierbas son las palabras de la tierra. Ella nos las da al abrirse; y así, una hierba dada a un cuerpo humano puede decirnos lo que le aflige.\n\nLa sibilante cenizosa tiene un olor acerbo y una textura espinosa.
+6192355000131570 Las hierbas son las palabras de la tierra. Ella nos las da al abrirse; y así, una hierba dada a un cuerpo humano puede decirnos lo que le aflige.\n\nLa saviera es sencilla, pero resistente.
 6192355000131571 Un cuerpo consiste en tres capas: Sangre, Huesos y Nervios. Cualquier enfermedad se puede curar si se descubre que parte ha sido envenenada.\n\nEsta poción me permite llegar a los Huesos.
 6192355000131572 Un cuerpo consiste en tres capas: Sangre, Huesos y Nervios. Cualquier enfermedad se puede curar si se descubre que parte ha sido envenenada.\n\nEsta poción me permite llegar a la Sangre.
-6192355000131573 Las hierbas son las palabras de la Tierra. Ella nos las da al abrirse; y así, una hierba dada a un cuerpo humano puede decirnos lo que le aflige.\n\nEl brote blanco es venenoso. Te puede llegar a matar.
+6192355000131573 Las hierbas son las palabras de la tierra. Ella nos las da al abrirse; y así, una hierba dada a un cuerpo humano puede decirnos lo que le aflige.\n\nEl látigo blanco es venenoso. Te puede llegar a matar.
 6192355000134951 Jilguero
 6192355000134952 Pequeño
 6192355000134953 Vencejo
@@ -5048,42 +5048,42 @@
 6192355000419693 Ah, Burakh. Si te has cansado de tus deberes médicos y quieres unirte a la guardia del pueblo, te vas a decepcionar. Tu experiencia se desperdiciaría en las calles. \nEso sin mencionar que casi no nos quedan gorras de cuero.
 6192355000419694 Estoy acostumbrado a la decepción.
 6192355000419695 Es bueno ver que mantienes tu sentido del humor.
-6192355000419696 ¿Qué te trae por aquí hoy? ¿La caza del urchin que lleva la plaga? \nSi es así, no te molestes, mi porche ya está lleno de voluntarios. Los bolsillos llenos de fósforos y leña no dejan espacio para el sentido común.
-6192355000419697 ¿Qué urchin?
+6192355000419696 ¿Qué te trae por aquí hoy? ¿La caza del portador de la plaga, el vagabundo?\nSi es así, no te molestes, mi traspatio ya está lleno de voluntarios. Los bolsillos llenos de cerillas y leña no dejan espacio para el sentido común.
+6192355000419697 ¿Qué vagabundo?
 6192355000419698 Está bien, he traído el mío.
 6192355000419699 ¿Están planeando otro incendio?
-6192355000419700 Estoy aquí para ver como estás. Claramente estás sobrecargado de trabajo.
+6192355000419700 Estoy aquí para ver cómo estás. Claramente estás sobrecargado de trabajo.
 6192355000419701 No te molestes, estoy bien. Todo el mundo está sobrecargado de trabajo estos días. Tú, Rubin, Dankovsky… Todos los <i>trabajadores</i>, no como esos vagabundos de fuera.\nMe vendría bien tu ayuda con otro asunto.
 6192355000419702 Con esos vagabundos, supongo.
 6192355000419703 Nunca pensé que escucharía elogios de ti.
-6192355000419704 Aparecieron esta mañana, afirmando haber encontrado al portador. Una pequeña niña sin hogar, claramente infectada,, pero viva y coleando. \n¡Sé perfectamente lo que quieren decir! Ten por seguro que ella no tiene nada que ver con esto.
+6192355000419704 Aparecieron esta mañana, afirmando haber encontrado al portador. Una pequeña niña sin hogar, claramente infectada,, pero viva y coleando.\n¡Sé perfectamente lo que quieren decir! Ten por seguro que ella no tiene nada que ver con esto.
 6192355000419705 ¿Cómo puedo ayudar?
 6192355000419706 Eres médico. Confiarán más en ti que en mí. Diles que se equivocan. Mejor aún, si la capturan, no podrán hacerle daño. Sin ella, estamos condenados. ¿No es así? Dankvosky me dijo eso sobre su proyecto para la vacuna.
 6192355000419707 Así es. Les diré que no le pongan las manos encima.
 6192355000419708 ¿Pequeño? Claramente no es tu… pupilo, si es de quien estás hablando.
 6192355000419709 Exacto. Se están agitando por tonterías. Alguien tiene que calmarlos.
 6192355000419710 ¿Cómo de exacto?
-6192355000419711 Pequeño… pequeño urchin… ¡Espera! ¡Esa no es Clara, es otra chica!
+6192355000419711 Pequeña… pequeña diablilla… ¡Espera! ¡Esa no es Clara, es otra chica!
 6192355000419712 ¿Qué? ¿Qué chica?
 6192355000419713 Quiero decir… Tal vez. Es solo una idea.	
 6192355000419714 No importa.
 6192355000419715 Les recordaré la caza del shabnak y cómo <i>terminó</i> aquello.
 6192355000419716 Que se rebelen. No hay forma de detenerlos.
-6192355000419717¿Por qué no lo arreglas, entonces? No debería ser muy difícil.
-6192355000419718 No tengo tiempo. Estoy demasiado ocupado.
-6192355000419719 ¿Ocupado con qué?
+6192355000419717 ¿Por qué no la limpias, entonces? No es tan difícil.
+6192355000419718 No tengo tiempo. Estoy demasiado ocupada.
+6192355000419719 ¿Ocupada con qué?
 6192355000419720 Yo también, pequeña.
 6192355000419721 Tengo una nueva amiga. Una que habla.
-6192355000419722 ¿En serio? ¿Uno que habla?
+6192355000419722 ¿En serio? ¿Una que habla?
 6192355000419723 Eso está bien. Siempre es bueno tener un amigo.
 6192355000419724 ¿Como una muñeca?
 6192355000419725 No, no como una muñeca.
 6192355000419726 ¿Entonces quién es?
 6192355000419727 Es una amiga secreta. No sé por qué, pero no le gustas nada.
 6192355000419728 A la mayoría de la gente no le gusto.
-6192355000419729 Como tú, eh.
+6192355000419729 Como tú, ¿no?
 6192355000419730 Bueno, no voy a husmear en tus secretos.
-6192355000419731 No lo sé… Tal vez podría ser una especie de hija para ti.
+6192355000419731 No lo sé… A lo mejor podría ser una especie de hija para ti.
 6192355000419732 Oh, eso es nuevo. ¿No dijiste que no te gusto?
 6192355000419733 No, no creo que pudiera manejar una hija en este momento.
 6192355000419734 Mmm, bueno. No eres tan malo como tu papá.
@@ -5154,8 +5154,8 @@
 6192355000436051 ¿Has asegurado todo lo que necesitas para sobrevivir?
 6192355000436052 No tengo nada que necesite. Ni comida, ni agua, ni ropa.
 6192355000436053 Por ahora me las arreglo.
-6192355000436054 No me urge que imites a esos dos. Pero son tiempos difíciles; y lo que necesitas, puedes encontrarlo merodeando en casas vacías como estas. Y si los dueños regresan abruptamente… No fuiste ni el primero ni el último criminal aquí.
-6192355000436055 ¿Entonces dices que debería robar en este lugar?
+6192355000436054 No te estoy instando a que te comportes como esos dos. Pero son tiempos difíciles y lo que necesitas puedes encontrarlo merodeando en casas vacías como estas. Y si al final resulta que la casa tiene dueños… No hubieras sido ni el primer ni el último criminal aquí.
+6192355000436055 Entonces, ¿dices que debería robar en este lugar?
 6192355000436056 Quieres decir que podría culpar a esos dos. ¿Verdad?
 6192355000436057 Exacto. Es tu vida la que está en juego; y las cosas son solo cosas que luego podrás devolver. Tú, en efecto, eres un médico, Burakh.
 6192355000436058 Así es. Un médico, no un ladrón.
@@ -5977,7 +5977,7 @@
 6192355000493217 Bonito poema, ¿lo has escrito tú?
 6192355000493218 Supongo que un oso como tú puede respirar un poco y estar bien. Pero solo un poco.
 6192355000493219 ¿Un oso? Mis amigos solían llamarme Osezno cuando éramos niños. Pero por aquel entonces era irónico.
-6192355000493220 ¡Ojalá! Nunca he sido tan bueno.\n¿Cuándo dormiste por última vez? Esos cercos alrededor de tus ojos, esa respiración con dificultad… Solo observo hechos. ¿Eres un forastero?
+6192355000493220 ¡Ojalá! Nunca seré capaz de escribir algo así.\n¿Cuándo dormiste por última vez? Esos cercos alrededor de tus ojos, esa respiración dificultosa… Solo observo hechos. ¿Eres un forastero?
 6192355000493221 Soy de aquí, es solo que he estado fuera un tiempo.
 6192355000493222 Acabo de llegar.
 6192355000493223 No soy de los que rechazan pequeños favores.
@@ -6060,7 +6060,7 @@
 6192355000495175 Yo no lo he dicho. Quizá tengamos varios.
 6192355000495176 Pero lo tiene…
 6192355000495177 Todo es terrible… Todo comenzó con esa maldita torre. Ya no podemos hacer nada: los niños hacen lo que les viene en gana.\nNo puedo decirles nada… a eso me refiero. Inténtalo y las palabras se te quedarán atascadas en la garganta. Se han convertido en verdaderos extraños para nosotros. Pero, ¿qué hay de nuestra sangre? ¿Y del amor paternal?
-6192355000495178 ¿Estás seguro de que no se puede hacer nada?
+6192355000495178 ¿Estás segura de que no se puede hacer nada?
 6192355000495179 ¿Qué tiene que ver esto con la Torre?
 6192355000495180 Es difícil de explicar… La Torre nos aplasta. Intenta decir algo en contra y es como si una cuchilla invisible te cortase las cuerdas vocales.\nLe ha hecho algo a nustros hijos. Como si cruzaran un río sobre una fina capa de hielo y no pudieras seguirles, solo llamarles.
 6192355000495181 Volverán y la capa de hielo será más gruesa.
@@ -7756,7 +7756,7 @@
 6192355000743455 ¿Para qué dormir? ¡Hay mucho que hacer y muy poco tiempo! \nSi tiene una o dos horas libres, aproveche al máximo ese precioso tiempo, pues el cruel Destino le pide que se prepare: ¡Explore el pueblo y llene sus bolsillos, rápido! Tiene poco tiempo, y nadie sabe lo que depara el mañana.
 6192355000743456 Ah, yo lo sé. El mañana depara enfermedad.
 6192355000743457 Buen consejo.
-6192355000743458 Era el mismísimo ayudante de un adivino. Aunque algunos pensaban que era un fraude, pude ver tras las cortinas, sobrecogido/a por lo que contemplé.\nAsí que créame si le digo que tiene tiempo suficiente, Burakh. De momento, al menos, hay tiempo.
+6192355000743458 Yo era el mismísimo ayudante de un adivino. Aunque algunos pensaban que era un fraude, pude mirar tras las cortinas, sorprendido por lo que vi.\nAsí que créame cuando le digo que tiene tiempo suficiente, Burakh. Por ahora, al menos, hay tiempo.
 6192355000743459 ¿Entonces simplemente me siento y me echo una siesta hasta la tarde?
 6192355000745253 Estoy encantado de conocerte, Burakh. Eres una persona muy especial.
 6192355000745254 No, no lo soy.
@@ -8076,7 +8076,7 @@
 6192355000782258 En efecto, son el mejor amigo de un hombre…
 6192355000782259 Ahorre dinero, señor. Le hará falta al final.
 6192355000782260 Optimista, por lo que veo.
-6192355000782261 ¿Está seguro?
+6192355000782261 ¿Estás seguro de eso?
 6192355000782262 Ah, justo el tipo de lugar que estoy buscando.
 6192355000782263 Prefiero negociar para conseguir lo que necesito.
 6192355000782264 Gracias, hombre de negro.
@@ -9103,13 +9103,13 @@
 6192355000850077 ¿Y funciona?
 6192355000850078 Ellos quieren forjar un superhombre, uno que rivalice con Dios. Ni siquiera por el hecho de forjarlo, sino para dejarlo crecer solo. Idealistas cabezas-huecas… Eso es lo que son.\nYo remo en la otra dirección. Los humanos son bestias. Cuanto más simples, más útiles, jejeje… Al menos, mi pequeña teoría demuestra ser cierta con abundantes monedas.
 6192355000850079 ¿Por qué quieren la casa de mi padre?
-6192355000850080 Depende de como lo vea, Maestro Burakh… Oh, depende. No me corresponde a mí juzgar. Soy un hombre con los pies en la tierra, sí… trabajo con carne, no con castillos en el aire.\nPero a veces, ellos construyen cosas cautivadoras. Ellos tienen un interés especial en los espacios dentro de los edificios.
+6192355000850080 Depende de cómo lo mires, Maestro Burakh… depende, sí. No me corresponde a mí juzgar. Soy un hombre con los pies en la tierra, sí… trabajo con carne, no con castillos en el aire.\nPero a veces, ellos construyen cosas cautivadoras. Ellos tienen un interés especial en los espacios dentro de los edificios.
 6192355000850081 ¿Qué clase de interés?
-6192355000850082 Ve al grano.
+6192355000850082 Vaya al grano.
 6192355000850083 Los Kain consideran todas las casas, incluída la tuya, como los engranajes en una máquina. Podrían decidir demolerlas o hacer algo completamente diferente.\nEl fallecido Simon Kain era cercano a tu padre. Se podría decir que eran amigos. Los opuestos realmente se atraen… Sí, lo hacen.
 6192355000850084 Entonces, ¿qué hago?
-6192355000850085 Vete a ver al Juez, ese es, Georgiy Kain. Con su hermano Simon muerto, él está al mando. Ve junto a él y haz valer tu reclamo…\nRápido. Georgiy se despierta al amanecer y nunca rectifica sus decisiones… Así es como es él.
-6192355000850086 Gracias, </i>boös</i>.
+6192355000850085 Ve a ver al Juez, ese decir, Georgiy Kain. Tras la muerte de su hermano Simon, él es quien ahora está al mando. Preséntate ante él y haz valer tu reclamo…\nPero date prisa. Georgiy se despierta al amanecer y nunca rectifica sus decisiones. Así es como es él…
+6192355000850086 Gracias, boös.
 6192355000850087 No quiero esa casa. Demasiada carga sentimental.
 6192355000850088 Si no quieres la casa para ti mismo, encantado de cargar con ella por ti. Te pagaré por ella… Nunca dejes que algo bueno se eche a perder, siempre lo digo. No hay forma de hacer cambiar de opinión a los Kain con dinero, ellos tienen suficiente. Tú, sin embargo, podrías tener éxito.\nVete a ver al Juez, que sea pronto. En una hora o dos, podría ser demasiado tarde.
 6192355000850089 Está bien, me ocuparé de ello.
@@ -9492,13 +9492,13 @@
 6192355000874866 Como hablar con mi juguete de la infancia.
 6192355000874867 Lo sé, juguete acróbata. Lo sé.
 6192355000874868 "Aquí puedes hacer cualquier cosa". Es justo lo que él habría dicho.
-6192355000874870 Correcto. Las tinturas son la base de todo tratamiento. La Estepa nos ha bendecido con sus maravillosas hierbas. twyra, la reina de las plantas. Swevery. Ashen swish. White whip. Dime, ¿qué tienen de bueno?
+6192355000874870 Correcto. Las tinturas son la base de todo tratamiento. La estepa nos ha bendecido con sus maravillosas hierbas. Twyra, la reina de las plantas. Saviera. Sibilante cenizosa. Látigo blanco. Dime, ¿qué tienen de bueno?
 6192355000874871 Pueden mostrar los síntomas de una enfermedad.
-6192355000874872 Uh… Tienen propiedades astringentes, creo… Y, por tanto, mejoran la inmunidad. Debidamente preparadas, una buena tintura es un poderoso potenciador.
+6192355000874872 Pues… Tienen propiedades astringentes, creo… Y, por tanto, mejoran la inmunidad. Debidamente preparadas, una buena tintura es un poderoso potenciador. Aunque su efecto no dura mucho.
 6192355000874873 Correcto. Revelan los síntomas de una enfermedad y mejoran la inmunidad. ¿Cómo harías una tintura?
 6192355000874874 Con agua limpia, no etanol. Las hierbas de la estepa son demasiado delicadas.
 6192355000874875 He de combinar dos hierbas distintas cualesquiera. De esta forma, se creará un enlace.
-6192355000874876 Unente: Agua limpia y dos hierbas distintas. Puedes encontrar ambas cosas aquí, mira en el armario. Haz un único ulmar para empezar.
+6192355000874876 Unente: agua limpia y dos hierbas distintas. Puedes encontrar ambas cosas aquí, mira en el armario. Haz un único ulmar para empezar.
 6192355000874877 De acuerdo.
 6192355000874878 Be khara, este lugar está bien abastecido. Siempre fuiste ahorrador, viejo.
 6192355000874879 Simplemente no dejes que tu madre se acerque a ella mientras está enferma.
@@ -9572,7 +9572,7 @@
 6192355000878558 Estaré atento.
 6192355000878559 Seré cuidadoso.
 6192355000878560 No, no lo son. Cualquier hierba puede ser mezclada con cualquier otra.
-6192355000878565 La twyra de sangre disminuye la negra. La twyra negra vence a la marrón. Y la marrón ahoga a la roja, supongo.
+6192355000878565 La twyra escarlata disminuye la negra. La twyra negra vence a la marrón. Y la marrón ahoga a la escarlata. Eso creo.
 6192355000878566 Hmm. Puedo trabajar con eso.
 6192355000878567 Empiezo a recordar esto también, ¿sabes?
 6192355000879951 Todo listo. Mañana los Fondos me recompensarán, y habrá disponibles nuevos trabajos en el hospital
@@ -9597,7 +9597,7 @@
 6192355000880487 Ya tengo una uña.
 6192355000880488 Lo sé.
 6192355000880489 Así que, ¿buscan castigar el asesinato convirtiéndose ellos mismos en asesinos?
-6192355000880490 ¿… ha habido muchas víctimas?
+6192355000880490 … ¿Ha habido muchas víctimas?
 6192355000880491 Sí. Pero ahora estás demasiado centrado en tu propio dolor como para preocuparte.
 6192355000880492 Me parece bien.
 6192355000880493 Te equivocas.
@@ -9617,7 +9617,7 @@
 6192355000880513 Ni arcilla ni hueso. Es una chica normal y corriente, no un shabnak. Y, por eso, es libre de irse.\nY aun así no lo hace… Debe estar ofendida. La gente de la estepa tiene una moral extraña. No temen a la muerte, se niegan a cortar un cuerpo y están avergonzados de cosas extrañas.
 6192355000880514 ¿Qué shabnak?
 6192355000881351 Una criatura ya extinta. ¿Qué pensabas preguntar?
-6192355000883251 Tumbler Human
+6192355000883251 Persona de trapo
 6192355000883252 Ya los he hecho.
 6192355000884962 Yamar berkhe, yargachin. Aquel que sabe cómo diseccionar personas, sabe diseccionar la tierra. Sayntadaa, emshen… Ahora participa de mi sangre. Deja que nutra a la tierra.
 6192355000884964 Todo el mundo sabe cómo funciona. Sacias la sed de la tierra con sangre, recoges su cosecha. Inténtalo.
@@ -9689,7 +9689,7 @@
 6192355000887558 
 6192355000887559 Una tintura es una mezcla de hierbas y agua.
 6192355000887560 
-6192355000887561 Las tinturas son elaboradas con distintas hierbas: twyra, swevery, ashen swish y white whip.
+6192355000887561 Las tinturas son elaboradas con distintas hierbas: twyra, saviera, sibilante cenizosa y látigo blanco.
 6192355000887562 
 6192355000887563 
 6192355000887564 
@@ -9778,7 +9778,7 @@
 6192355000895871 Esta persona lanza un dado cada semana de la misma forma que cualquier persona humana haría. No pueden conseguir más de un tres sin ayuda. Y, para ser sinceros, lo más probable es que saquen un uno. \nAsí que ven aquí y lanza el dado así, para que salga un número más alto.
 6192355000895872 Hmm…
 6192355000895873 Suena un poco…imposible.
-6192355000895874 ¿No <i>podías</i> habérselo dado directamente al paciente? ¿Para qué me necesitas?
+6192355000895874 ¿No podías habérselo dado directamente al paciente? ¿Para qué me necesitas?
 6192355000895875 Porque eres médico, y porque no tienen tu conocimiento o habilidades. Eres dos tercios de persona. Ellos son media.
 6192355000895876 Se nota que te gusta la aritmética.
 6192355000895877 No son muñecas. Son personas como yo.
@@ -9800,7 +9800,7 @@
 6192355000895895 Tengo mis propios potenciadores de inmunidad, hechos a mano.
 6192355000895896 El aire infectado reduce tu inmunidad. Despacio, pero de forma constante, solo porque lo estás respirando. Pero eso no es lo peor.
 6192355000895897 ¿Y qué es?
-6192355000895898 El toque de una persona infectada, o tocar superficies infectadas, como pomos de puertas o cajones.\Además… A veces parece como si la peste… respirase sobre ti.
+6192355000895898 El toque de una persona infectada o entrar en contacto con superficies infectadas, como el pomo de una puerta o el tirador de un cajón.\nAdemás, a veces parece como si la peste respirase sobre ti.
 6192355000895899 ¿Respirase? ¿Cómo?
 6192355000895900 No soy médico, Maestro Burakh. Soy un simple celador, un tonto asustado. Solo te describo un sueño que tuve.\nPero esta plaga… es como si estuviese viva. Habla. Respira, y pobre si respira sobre ti.
 6192355000895901 Lo tendré en cuenta.
@@ -9813,8 +9813,8 @@
 6192355000896667 No, no lo es. Es nuestra. ¿Alguna objeción?
 6192355000896668 Sí, objeto.
 6192355000896669 ¿Cuántos sois?
-6192355000898551 ¡Hey, noukherne! Be khara, eres un buen hombre. Compra mi toro.
-6192355000898552 Silvestrerlaa, noukherne. ¿Cuánto quieres por él?
+6192355000898551 ¡Ei, noukherne! Be khara, eres un buen hombre. Compra mi toro.
+6192355000898552 Bayarlaa, noukherne. ¿Cuánto quieres por él?
 6192355000898751 ¡Están robando en casa de Padre!
 6192355000898752 
 6192355000898753 
@@ -9822,7 +9822,7 @@
 6192355000899459 Vaya, vaya, mira eso…
 6192355000899460 ¿Qué está ocurriendo?
 6192355000899751 … Así que esa es la pesadilla que tuve. ¿Te lo imaginas? Justo antes de despertar, le dije: "¡Sigue tu camino pues, khayaala! Las personas no matan personas".\n¿Qué quieres, viejo?
-6192355000899752 ¿… Qué estáis haciendo aquí?
+6192355000899752 … ¿Qué estáis haciendo aquí?
 6192355000900151 ¿Dónde creéis que vais? ¿No veis que está cerrado?
 6192355000900152 ¿Qué ocurre aquí?
 6192355000900153 ¿Por qué?
@@ -10019,8 +10019,8 @@
 6192355000912958 ¿Compras twyra?
 6192355000912959 Solo quedan dos semanas hasta que acabe septiembre. Ahora estamos en el momento álgido de la cosecha. Tenemos que acumular para todo el año que viene…
 6192355000912960 ¿Cuánto pagas?
-6192355000912961 La swish de ceniza hoy es más cara.
-6192355000912962 La swish es una hierba siniestra. Su nombre estepario es Bardo Suok, "la oscuridad de las profundidades". Pero no tiene importancia…
+6192355000912961 La sibilante cenizosa es más cara hoy.
+6192355000912962 La sibilante cenizosa es una hierba maligna. Su nombre estepario es Bardo Suok, "la oscuridad de las profundidades". Pero no tiene importancia…
 6192355000913588 Odongh
 6192355000913589 Si ves un hombre, corre. Hoy están enfadados. Matarán a los que son como tú y como yo.
 6192355000913590 ¿Crees que tenemos algo en común, odongh?
@@ -10048,7 +10048,7 @@
 6192355000917751 ¿Como lo sabes?
 6192355000917752 ¿Cómo iba a saberlo? Solo miré desde fuera. Incluso así, casi no salgo de allí con vida. Me cortaron con una cuchilla, ¿ves? Y podría haber sido peor.
 6192355000917753 ¿Quién te ha hecho esto?
-6192355000917754 La gente ha empezado a saquear, ¿no lo sabías? Las casas están siendo desvalijadas por todos los Cuartos Traseros, en los Curtidores, en los Desolladores. La plaga ha abandonado esos distritos. \nCasas vacías, abiertas a los ladrones. Así que la gente se cuela y nadie los castiga, ¡ni siquiera nadie los mira mal! Supongo que todos tenemos otras preocupaciones hoy en día…
+6192355000917754 La gente ha empezado a saquear, ¿no lo sabías? Las casas están siendo desvalijadas por todos los Cuartos Traseros, en los Curtidores, en los Desolladores. La plaga ha abandonado esos distritos.\nCasas vacías, abiertas a los ladrones. Así que la gente se cuela y nadie los castiga, ¡ni siquiera nadie los mira mal! Supongo que todos tenemos otras preocupaciones hoy en día…
 6192355000917755 ¿Y qué ocurre con nuestros nuevos patrulleros? ¿No están haciendo… algo?
 6192355000917756 Yo mismo he podido verlo.
 6192355000917757 ¿Hay muchos?
@@ -10161,30 +10161,30 @@
 6192355000925684 Entendido. Entonces, ¿produces twyrine aquí?
 6192355000925687 Es diferente cada día. Depende de lo que estemos elaborando en este momento. Algunas hierbas a veces pueden costar el triple.
 6192355000925688 Ya veo.
-6192355000925689 No nos interesa la twyra. Swish de ceniza, swevery y white whip son, por supuesto, más raras… Por tanto, más caras.
-6192355000925690 ¿Valoras el tiempo, eh?
+6192355000925689 No nos interesa la twyra. La sibilante cenizosa, la saviera y el látigo blanco son, por supuesto, más raras… Y, por lo tanto, más caras.
+6192355000925690 Valoras el tiempo, ¿eh?
 6192355000925692 Lo tendré en cuenta.
 6192355000925693 ¿Abundan las hierbas este año?
-6192355000925694 Bastante. Las Novias han debido hacer un gran trabajo.
+6192355000925694 Bastante. Las novias han debido hacer un gran trabajo.
 6192355000925695 Y justo a tiempo, además…
 6192355000925696 ¿Te refieres a bailar?
 6192355000925697 A veces, cuando salgo a la estepa, veo docenas de ellas paseando por ahí, meciéndose. Una preciosidad…
 6192355000925698 Una preciosidad, sin duda.
 6192355000925699 No me gustan. Tienen un aura espeluznante.
-6192355000925700 Ten cuidado con ello. Solo hace falta un swish para ver la cabeza de alguien rodar.
-6192355000925701 La Swevery hoy cuesta más.
+6192355000925700 Ten cuidado con ella. Ya sabes lo que dicen: "la cuchilla es sibilante".
+6192355000925701 La saviera es más cara hoy.
 6192355000925702 ¿Pero qué hacen con ella? Es tan amarga como la bilis.
 6192355000925703 Yo incluso daría más por ello.
-6192355000925704 Hoy la gente quiere white whip. Pagaremos un extra.
+6192355000925704 Hoy la gente quiere látigo blanco. Pagaremos un extra.
 6192355000925705 ¿Sabes al menos dónde crece?
 6192355000925706 Sois gente muy extraña…
-6192355000925707 La twyra de sangre hoy cuesta tres veces más.
+6192355000925707 La twyra escarlata hoy cuesta tres veces más.
 6192355000925708 Qué suerte tengo.
-6192355000925709 La twyra de sangre produce twyrine mala. Hace que una persona se olvide de sí misma.
+6192355000925709 Es mejor no producir twyrina con twyra escarlata. Hace que una persona se olvide de sí misma.
 6192355000925710 Hoy la oferta especial es twyra negra.
 6192355000925711 Mi favorita.
 6192355000925712 De acuerdo…
-6192355000928151 ¿Así que eres el hijo de Isidor, eh?
+6192355000928151 Así que eres el hijo de Isidor, ¿eh?
 6192355000928155 
 6192355000928156 
 6192355000928157 En efecto.
@@ -10300,9 +10300,9 @@
 6192355000943192 Mañana, los precios subirán el doble. Pasado mañana, subirán cuatro veces. Y Suok sabe qué ocurrirá al día siguiente. Necesito abastecerme hoy mismo.
 6192355000943193 Oh dios. ¿Cómo lo sabes?
 6192355000943194 No te rías, pero… mi toro me lo dijo.
-6192355000943195 ¡Qué hombre <i>tan</i> divertido eres, noukherne!
+6192355000943195 ¡Qué hombre tan divertido eres, noukherne!
 6192355000943196 ¿Eh?
-6192355000943197 Silvestrerlaa para ti por esta noticia, Khatangher. No compraré tu toro, prefiero gastarme hoy el dinero en otras cosas.
+6192355000943197 Bayarlaa para ti por esta noticia, Khatangher. No compraré tu toro, prefiero gastarme hoy el dinero en otras cosas.
 6192355000943957 Forramos nuestros barcos con uñas para hacer su camino más suave. Te has vuelto muy molesto, menkhu. Demasiada muerte, demasiados problemas en tu pecho. Demasiado pesado para poder llevarlo en un barco.\nNecesitaremos dos uñas.
 6192355000943958 No estoy en posición para discutir.
 6192355000943959 Antes, una era suficiente para llevar mis cargas.
@@ -10705,7 +10705,7 @@
 6192355001007062 ¿Cómo puede ser eso algo malo?
 6192355001007063 Así que era tu hijo, ¿eh? También llamado Vlad Olgimsky…
 6192355001007851 Sí, sí. Solo que no soy un viejo. Soy un hombre sin tiempo que perder con charla insustancial y que odia cuando la gente pone patas arriba sus habitaciones sin razón.\nVuelve cuando tengas carne.
-6192355001007852 Entendido, arácnido. Nos vemos.
+6192355001007852 Entendido, hombre ladino. Nos vemos.
 6192355001007853 Vives en una farmacia. Una tienda. Tengo todo el derecho a estar aquí.
 6192355001008851 He encontrado una nota y una llave en casa de Padre. Firmada: "V.O.". ¿Fuiste tú quien le dio acceso al sótano de la Fábrica?
 6192355001008852 Así que la has encontrado… Espero que hayas tenido la suficiente sensatez para no mencionárselo a mi padre, también llamado "V.O.", quien resulta poseer la Fábrica, y sus sótanos, y todos sus trabajadores.
@@ -11325,7 +11325,7 @@
 6192355001078465 No una corriente.
 6192355001078466 Estoy seguro de que es más corriente de lo que crees.
 6192355001078467 Por cierto, no era una oferta. Soy un mal consejero.
-6192355001078468 Tengo una pregunta para nuestra madre. \NQueda poco tiempo antes de que todo acabe. Cuando ocurra, ¿podré perdonar la vida de aquellos que confiaron en mí y se llamaron a sí mismos "amigos"? ¿Se me permitirá no tener que matarlos?
+6192355001078468 Tengo una pregunta para nuestra madre.\nQueda poco tiempo antes de que todo acabe. Cuando ocurra, ¿podré perdonar la vida de aquellos que confiaron en mí y que me consideraron un amigo? ¿Se me permitirá no tener que matarlos?
 6192355001078469 ¿Cuando ocurra qué?
 6192355001078470 Sí.
 6192355001078471 Cuando el Dogma inunde el pueblo. Cuando la estepa consuma las calles y las casas. ¿Qué debería hacerle a la gente para entonces?
@@ -11970,7 +11970,7 @@
 6192355001131784 Loy
 6192355001131787 Ni siquiera tengo casa.
 6192355001131788 Entonces te lo traeré cuando tengas una.
-6192355001131789 ¿Y cómo sabrás donde estará? ¿Del toro también?
+6192355001131789 ¿Y cómo sabrás donde estará? ¿Te lo dirá el toro también?
 6192355001131790 Si es que encuentro una.
 6192355001131851 Sombra de Grigory
 6192355001131852 Arisca
@@ -13332,14 +13332,14 @@
 6192355001255796 Espera… Me parece que tu cara me está sonando.
 6192355001255797 ¿No me recuerdas, kholboön? Bueno, yo sí te recuerdo. Y también recuerdo tus palabras. Así que, ¿me tendrás ahora?
 6192355001255798 Eres una Novia de la estepa. No podemos tener una relación.
-6192355001255799 Para ser una Novia se te entiende bastante bien. ¿Vives en la Ciudad?
-6192355001255800 Tus manos son muy pesadas. Chis, no me toques todavía o si no el vestido se rasgará, y eso no es bueno.\nLas lágrimas del vestido deben aparecer por sí solas, durante la danza. Al igual que la Tierra se desgarra cuando libra la hierba.
+6192355001255799 Para ser una Novia se te entiende bastante bien. ¿Vives en el pueblo?
+6192355001255800 Tus manos son muy pesadas. Chis, no me toques todavía. De lo contrario, el vestido se rasgará y eso no es bueno.\nEl vestido debe romperse por sí solo, durante la danza. Al igual que la tierra se desgarra cuando hace brotar la hierba.
 6192355001255801 No te estoy tocando.
 6192355001255802 Tranquila, tendré cuidado. Solo estoy comprobando que eres real.
 6192355001255803 ¿Me tendrás ahora? ¿Nos uniremos para siempre?
 6192355001255804 Pero… ¿Quién eres?
 6192355001255805 No, basaghan. Hay algo raro en ti. ¿Qué quieres en realidad?
-6192355001255806 ¿Somos… amantes?
+6192355001255806 ¿Eramos… amantes?
 6192355001255807 Bien. Esperaré a que te acuerdes de mí. Nos volveremos a ver pronto. Te encontraré.\nPor ahora, intenta recordarme, kholboön. Segne dehe, o habrá problemas.
 6192355001255808 No te preocupes.
 6192355001255809 Te esperaré, basaghan.
@@ -15641,9 +15641,9 @@
 6192355001421892 ¡No te creo! Eres humana y seguirás siguiendo humana. O te convertirás en humana.
 6192355001422451 <i>Bayartay</i>…
 6192355001422551 ¡Lo hago! Sé que no me crees, ¡pero te necesito!
-6192355001422552 Tu amigo lo apreciaba. ¿Y si Khan se regodeó con la muerte de Jester?
-6192355001422553 Jester no puede morir.
-6192355001422554 Bien por ti.
+6192355001422552 Tu amigo lo apreciaba. ¿Y si Khan se regodeó con la muerte de Artista?
+6192355001422553 Artista es inmortal.
+6192355001422554 Bien por ti y por Artista.
 6192355001422555 Quienes se pasan todo el tiempo en la cima, al final tienen una caída muy dura. Así es como consigues que tus sueños de cristal se hagan añicos. ¡Mala idea! Al final todos los soñadores caminan por la misma tierra, y yo estoy a cargo de esta tierra. ¿Tratar con sueños? No, no es lo mío.
 6192355001422556 Tú no eres el único que está a cargo.
 6192355001422557 Por supuesto, también estás tú. ¡Me gustas de verdad! ¡Solo tiene que mirar a tu Mitad! Muestra con esplendor la calidad de tu carácter.\nAsí que ahora estás con nosotros, ¿no?
@@ -15731,7 +15731,7 @@
 6192355001425080 ¿Qué pasa? No tienes que darme un abrazo si no quieres…
 6192355001425081 Es como si… ¡como si algo no me dejara!
 6192355001425082 Ahora… ahora lo recuerdo. Dijo que no sería capaz de abrazar a nadie. Maldita sea…
-6192355001425351 Si te gusto tanto, ¿puede que por fin Jester se deje ver?
+6192355001425351 Ya que me tienes en tan alta estima, ¿puede que por fin Artista se deje ver?
 6192355001425352 Eso depende de él.
 6192355001425353 "Los gatos conocen el fondo de la cuestión…"
 6192355001425552 Esquilado
@@ -17780,11 +17780,11 @@
 6192355001499058  
 6192355001499059 Tengo la garganta sequísima… Completamente seca. Me gustaría un poco de agua. Pero… no. Para mí no hay agua.
 6192355001499060 Sé lo que se siente, pequeño. Yo también he pasado por ello.
-6192355001499063 Mandé lejos a Jester. No dejaba de intentar acercarse a mí, gato estúpido. ¡Le dije que se quedara en la esquina! También pudo cogerlo…
-6192355001499064 Sigo sin poder ver a… tu familiar.
+6192355001499063 Mandé lejos a Artista. No dejaba de intentar acercarse a mí, gato estúpido. ¡Le dije que se quedara en la esquina! Podría haberlo cogido de mí…
+6192355001499064 Sigo sin poder ver a… tu animal.
 6192355001499067  
 6192355001499068  
-6192355001499069 …..
+6192355001499069 ......
 6192355001499070 ¡Todos vosotros sois demasiado independientes! Por ahí desperdigados como un montón de cachorros… ¿Sabes dónde se encuentra Alma ahora?
 6192355001499153  
 6192355001499154  
@@ -18608,7 +18608,7 @@
 6192355001513973 Conseguiste arrastrarte fuera del otro lado una vez, y volverás a hacerlo. Eres un chico muy terco.
 6192355001513974 ¡Bueno! Han pasado muchas cosas…\nOye, ¿qué tal le va a Kan? Dile que no le guardo rencor… Es un tío decente.
 6192355001513975 Sí que lo es. Y por eso él también está enfermo…
-6192355001513976 Lo siento, amigo. Cuidaré de Jester como pueda.
+6192355001513976 Lo siento, amigo. Cuidaré de Artista como pueda.
 6192355001513977 Bueno… ya no hay nada que hacer, ¿eh? Ese imbécil de la gran ciudad te confundió, ¿te acuerdas? Pero al final también resultó ser un tío decente.\nNos merecemos a nosotros mismos.
 6192355001513978 ¿Estás enfadado conmigo?
 6192355001513979 ¿Te acuerdas de ese juicio tuyo? ¿De cómo queríais ejecutar a Lamek? Menudos inquisidores…
@@ -20695,7 +20695,7 @@
 6192355001630713 
 6192355001630714 Nota de despedida
 6192355001630715 Una hoja de papel arrugada. Por alguna razón huele como a ciénaga. Tocar para leerla.
-6192355001630716 "¿Puede alguien saber cuantas gotas hay en el mar?\n¿Puede alguien saber cuantas lágrimas por este dolor se van a derramar? \n\nEstoy muy feliz de que no hayas sido tú, Padre.\n\n-Veronica Croy".
+6192355001630716 "¿Quién puede contar el número de gotas en el mar? ¿Quién puede contar el número de lágrimas en este pesar?\n\nEstoy muy feliz de que no hayas sido tú, Padre.\n\n-Veronica Croy".
 6192355001630717 
 6192355001630718 
 6192355001630719 Llave sin Cerradura
@@ -20832,7 +20832,7 @@
 6192355001648255 Dentro de poco, aquí se construirá la yurta más suntuosa que nuestro pueblo haya visto jamás.
 6192355001649951 
 6192355001651751 Sí… He escuchado a tu sombra.
-6192355001651752 Sin jefe es una mierda. Algunos ya se han dispersado… ya sabes cómo va esto. Jester aúlla por las noches…\nPero los exploradores aún están fuertes. Y yo tampoco abandonaré la Torre. Que se fastidie.
+6192355001651752 Sin jefe es una mierda. Algunos ya se han dispersado… ya sabes cómo va esto. Artista aúlla por las noches…\nPero los exploradores se quedaron. Y yo tampoco me iré a la Torre. Que se fastidie.
 6192355001651753 ¿Entonces no habéis reemplazado a Notkin por otro líder?
 6192355001651754 ¿Por qué?
 6192355001651755 Lo siento…
